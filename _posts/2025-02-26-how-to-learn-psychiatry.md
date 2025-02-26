@@ -63,7 +63,7 @@ tags:
 
 ### 小白阶段
 
-https://mp.weixin.qq.com/s/vV-eLMZI6zcx-4L8He8K6g
+[【科普】学习精神病学如何入门](https://mp.weixin.qq.com/s/vV-eLMZI6zcx-4L8He8K6g)
 
 这篇“症状网络”的科普文写的很好，很专业全面。如果按照文内这样一套流程走下来，绝对算是可以入门了。
 
@@ -75,7 +75,7 @@ https://mp.weixin.qq.com/s/vV-eLMZI6zcx-4L8He8K6g
 
 这里主要推荐**DSM-V**，即《精神障碍诊断与统计手册》第五版（Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition），是由美国精神病学会（American Psychiatric Association, APA）发布的一部权威性指南，用于诊断和分类精神障碍。
 
-![[Pasted image 20250215131615.png]]
+![Pasted image 20250215131615.png]("img/attachment/Pasted image 20250215131615.png")
 
 国内主要是科研时会用到这一套诊断系统，医院系统里还是ICD-10（虽然早就出ICD-11了）。
 
@@ -97,7 +97,7 @@ DSM-V好在它读起来并不生涩，虽然是诊断标准，但在某一个条
 
 我更推荐的是在网上选择你喜欢看的网课，可以先看考研、期末的**速成视频**，对这个领域和体系有一个初步的了解，再去看正儿八经的**公开课**，会好一些。
 
-具体可参见：https://mp.weixin.qq.com/s/vV-eLMZI6zcx-4L8He8K6g
+具体可参见：[【科普】学习精神病学如何入门](https://mp.weixin.qq.com/s/vV-eLMZI6zcx-4L8He8K6g)
 这里“教学视频”一节下推荐的一些资源。
 
 
@@ -108,7 +108,7 @@ DSM-V好在它读起来并不生涩，虽然是诊断标准，但在某一个条
 
 虽然钟杰老师的视频稍微有些年头（还在用DSM-IV），但也比b站上被盘出包浆的钱铭怡教授的网课要好些，而且时长较短。
 
-![[Pasted image 20250215174406.png|300]]
+![Pasted image 20250215174406.png|300]()
 
 这个Osmosis合集是很好的科普，很推荐观看，每集都只有几分钟，可以一次看完。
 
@@ -127,7 +127,7 @@ DSM-V好在它读起来并不生涩，虽然是诊断标准，但在某一个条
 
 ### 进阶阶段
 
-https://mp.weixin.qq.com/s/3X34WHB0U1WMqyl_4KCj5g
+[书单推荐 | 给精神科青年医师](https://mp.weixin.qq.com/s/3X34WHB0U1WMqyl_4KCj5g)
 这里面有llj医生为大家推荐的一些书籍。
 
 首先是研究生教材：《沈渔邨精神病学》（最开始是沈渔邨院士主编的，所以叫这个名字）
