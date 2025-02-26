@@ -108,7 +108,7 @@ DSM-V好在它读起来并不生涩，虽然是诊断标准，但在某一个条
 
 虽然钟杰老师的视频稍微有些年头（还在用DSM-IV），但也比b站上被盘出包浆的钱铭怡教授的网课要好些，而且时长较短。
 
-![变态心理学钟杰](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/abnormal-psy-zj.png)
+![变态心理学钟杰](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/abnormal-psy-video.png)
 
 这个Osmosis合集是很好的科普，很推荐观看，每集都只有几分钟，可以一次看完。
 
