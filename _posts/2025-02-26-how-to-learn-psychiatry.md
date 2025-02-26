@@ -8,7 +8,7 @@ catalog: false
 published: false
 header-style: text
 tags:
-  - 学习路径
+  - 被夹
 ---
 
 在开头，我想引用《牛津精神病学》（Shorter Oxford Textbook of psychiatry, 7th edition）里的一段话：
