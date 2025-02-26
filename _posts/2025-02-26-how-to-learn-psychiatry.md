@@ -75,7 +75,7 @@ tags:
 
 这里主要推荐**DSM-V**，即《精神障碍诊断与统计手册》第五版（Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition），是由美国精神病学会（American Psychiatric Association, APA）发布的一部权威性指南，用于诊断和分类精神障碍。
 
-![Pasted image 20250215131615.png]("img/attachment/Pasted image 20250215131615.png")
+![DSM-V](img/attachment/Pasted image 20250215131615.png)
 
 国内主要是科研时会用到这一套诊断系统，医院系统里还是ICD-10（虽然早就出ICD-11了）。
 
