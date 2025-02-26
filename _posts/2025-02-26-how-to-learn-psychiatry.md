@@ -79,7 +79,7 @@ tags:
 
 国内主要是科研时会用到这一套诊断系统，医院系统里还是ICD-10（虽然早就出ICD-11了）。
 
-![ICD-11](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/icd11.png|200)
+![ICD-11](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/icd11.png =200)
 
 **ICD-11**可以直接在官网上看到：[ICD-11 for Mortality and Morbidity Statistics](https://icd.who.int/browse/2025-01/mms/en#334423054)
 
@@ -90,7 +90,7 @@ DSM-V好在它读起来并不生涩，虽然是诊断标准，但在某一个条
 
 医学生们在本科会学习《精神病学》这门课程，使用的教材是人民卫生出版社的那套“蓝色生死恋”系列：
 
-![精神病学第九版](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/people-health-psychiatry.png|250)
+![精神病学第九版](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/people-health-psychiatry.png)
 （现在出到第九版了，如果喜欢刷题的话，也有对应的习题集，同时也可以使用一些医学刷题软件方便在手机上刷题巩固知识点，虽然有些知识早已过时）
 
  大多数人会与我讲，他们看教材的时候感到吃力，因此我只是将教材列在这里，供有需要的读者查找。
@@ -108,7 +108,7 @@ DSM-V好在它读起来并不生涩，虽然是诊断标准，但在某一个条
 
 虽然钟杰老师的视频稍微有些年头（还在用DSM-IV），但也比b站上被盘出包浆的钱铭怡教授的网课要好些，而且时长较短。
 
-![变态心理学钟杰](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/abnormal-psy-zj.png|300)
+![变态心理学钟杰](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/abnormal-psy-zj.png)
 
 这个Osmosis合集是很好的科普，很推荐观看，每集都只有几分钟，可以一次看完。
 
