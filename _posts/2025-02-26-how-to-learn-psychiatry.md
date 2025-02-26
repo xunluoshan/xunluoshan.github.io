@@ -79,7 +79,7 @@ tags:
 
 国内主要是科研时会用到这一套诊断系统，医院系统里还是ICD-10（虽然早就出ICD-11了）。
 
-![ICD-11](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/icd11.png =200)
+![ICD-11](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/icd11.png)
 
 **ICD-11**可以直接在官网上看到：[ICD-11 for Mortality and Morbidity Statistics](https://icd.who.int/browse/2025-01/mms/en#334423054)
 
