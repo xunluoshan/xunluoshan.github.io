@@ -132,7 +132,7 @@ DSM-V好在它读起来并不生涩，虽然是诊断标准，但在某一个条
 
 首先是研究生教材：《沈渔邨精神病学》（最开始是沈渔邨院士主编的，所以叫这个名字）
 
-![沈渔邨精神病学|250](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/shenyucun.png)
+![沈渔邨精神病学](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/shenyucun.png)
 
 这本书特别厚，大概是属于工具书类别的。
 
@@ -140,7 +140,7 @@ DSM-V好在它读起来并不生涩，虽然是诊断标准，但在某一个条
 
 **总之，是不可多得的好书！！！**
 
-![牛津精神病学|200](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/oxford-psychiatry.png)
+![牛津精神病学](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/oxford-psychiatry.png)
 
 
 
