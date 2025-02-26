@@ -140,7 +140,7 @@ DSM-V好在它读起来并不生涩，虽然是诊断标准，但在某一个条
 
 **总之，是不可多得的好书！！！**
 
-![牛津精神病学](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/oxford-psychiatry.png)
+![牛津精神病学](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/oxford-psychiatry.jpg)
 
 
 
