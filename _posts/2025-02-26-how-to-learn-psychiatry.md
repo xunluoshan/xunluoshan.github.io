@@ -79,7 +79,7 @@ tags:
 
 国内主要是科研时会用到这一套诊断系统，医院系统里还是ICD-10（虽然早就出ICD-11了）。
 
-![ICD-11](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/icd11.png)
+![ICD-11](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/icd11.jpg)
 
 **ICD-11**可以直接在官网上看到：[ICD-11 for Mortality and Morbidity Statistics](https://icd.who.int/browse/2025-01/mms/en#334423054)
 
@@ -90,7 +90,7 @@ DSM-V好在它读起来并不生涩，虽然是诊断标准，但在某一个条
 
 医学生们在本科会学习《精神病学》这门课程，使用的教材是人民卫生出版社的那套“蓝色生死恋”系列：
 
-![精神病学第九版](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/people-health-psychiatry.png)
+![精神病学第九版](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/people-health-psychiatry.jpg)
 （现在出到第九版了，如果喜欢刷题的话，也有对应的习题集，同时也可以使用一些医学刷题软件方便在手机上刷题巩固知识点，虽然有些知识早已过时）
 
  大多数人会与我讲，他们看教材的时候感到吃力，因此我只是将教材列在这里，供有需要的读者查找。
@@ -132,7 +132,7 @@ DSM-V好在它读起来并不生涩，虽然是诊断标准，但在某一个条
 
 首先是研究生教材：《沈渔邨精神病学》（最开始是沈渔邨院士主编的，所以叫这个名字）
 
-![沈渔邨精神病学](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/shenyucun.png)
+![沈渔邨精神病学](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/shenyucun.jpg)
 
 这本书特别厚，大概是属于工具书类别的。
 
