@@ -90,7 +90,7 @@ DSM-V好在它读起来并不生涩，虽然是诊断标准，但在某一个条
 
 医学生们在本科会学习《精神病学》这门课程，使用的教材是人民卫生出版社的那套“蓝色生死恋”系列：
 
-![精神病学第九版|250](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/)
+![精神病学第九版|250](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/people-health-psychiatry.png)
 （现在出到第九版了，如果喜欢刷题的话，也有对应的习题集，同时也可以使用一些医学刷题软件方便在手机上刷题巩固知识点，虽然有些知识早已过时）
 
  大多数人会与我讲，他们看教材的时候感到吃力，因此我只是将教材列在这里，供有需要的读者查找。
@@ -108,11 +108,11 @@ DSM-V好在它读起来并不生涩，虽然是诊断标准，但在某一个条
 
 虽然钟杰老师的视频稍微有些年头（还在用DSM-IV），但也比b站上被盘出包浆的钱铭怡教授的网课要好些，而且时长较短。
 
-![变态心理学钟杰|300](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/)
+![变态心理学钟杰|300](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/abnormal-psy-zj.png)
 
 这个Osmosis合集是很好的科普，很推荐观看，每集都只有几分钟，可以一次看完。
 
-![Osmosis_精神与行为障碍](https://github.com/xunluoshan/xunluoshan.github.io/raw/master)
+![Osmosis_精神与行为障碍](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/osmosis-video.png)
 
 ##### 3. 理论联系实践
 
@@ -132,7 +132,7 @@ DSM-V好在它读起来并不生涩，虽然是诊断标准，但在某一个条
 
 首先是研究生教材：《沈渔邨精神病学》（最开始是沈渔邨院士主编的，所以叫这个名字）
 
-![沈渔邨精神病学|250](https://github.com/xunluoshan/xunluoshan.github.io/raw/master)
+![沈渔邨精神病学|250](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/shenyucun.png)
 
 这本书特别厚，大概是属于工具书类别的。
 
@@ -140,7 +140,7 @@ DSM-V好在它读起来并不生涩，虽然是诊断标准，但在某一个条
 
 **总之，是不可多得的好书！！！**
 
-![牛津精神病学|200](https://github.com/xunluoshan/xunluoshan.github.io/raw/master)
+![牛津精神病学|200](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/oxford-psychiatry.png)
 
 
 
