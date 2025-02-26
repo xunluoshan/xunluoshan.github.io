@@ -1,13 +1,14 @@
 ---
 layout:     post
 title:      "如何学习精神病学(更新中)"
-subtitle:   "The Systematic Failure of Higher Education in China"
+subtitle:   "How to learn psychiatry"
 date:       "2025-02-26 13:40:00"
 author:     "Luoshan"
 catalog: true
 header-style: text
 tags:
   - 学习路径
+  - 精神病学
 ---
 
 在开头，我想引用《牛津精神病学》（Shorter Oxford Textbook of psychiatry, 7th edition）里的一段话：
