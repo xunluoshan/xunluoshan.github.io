@@ -109,13 +109,13 @@ DSM-V好在它读起来并不生涩，虽然是诊断标准，但在某一个条
 虽然钟杰老师的视频稍微有些年头（还在用DSM-IV），但也比b站上被盘出包浆的钱铭怡教授的网课要好些，而且时长较短。
 
 [【变态心理学（北大课堂版）】心境障碍（上）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV168411U7y7/?spm_id_from=333.337.search-card.all.click&vd_source=25ceebc83776887bec7f294c67ff630f)
-![变态心理学钟杰](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/abnormal-psy-video.png)
+![变态心理学钟杰](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/abnormal-psy-video.png)
 
 这个Osmosis合集是很好的科普，很推荐观看，每集都只有几分钟，可以一次看完。
 （也有一些视频散落在合集之外，点进up主页可以看到）
 
 [【Osmosis合集】精神与行为障碍（更至12P｜中英）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1nZ4y1N7Bd/?spm_id_from=333.337.search-card.all.click&vd_source=25ceebc83776887bec7f294c67ff630f)
-![Osmosis_精神与行为障碍](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/osmosis-video.png)
+![Osmosis_精神与行为障碍](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/osmosis-video.png)
 
 ##### 3. 理论联系实践
 
@@ -135,7 +135,7 @@ DSM-V好在它读起来并不生涩，虽然是诊断标准，但在某一个条
 
 首先是研究生教材：《沈渔邨精神病学》（最开始是沈渔邨院士主编的，所以叫这个名字）
 
-![沈渔邨精神病学](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/shenyucun.jpg)
+![沈渔邨精神病学](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/shenyucun.jpg)
 
 这本书特别厚，大概是属于工具书类别的。
 
@@ -143,7 +143,7 @@ DSM-V好在它读起来并不生涩，虽然是诊断标准，但在某一个条
 
 **总之，是不可多得的好书！！！**
 
-![牛津精神病学](https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/oxford-psychiatry.jpg)
+![牛津精神病学](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/oxford-psychiatry.jpg)
 
 
 
