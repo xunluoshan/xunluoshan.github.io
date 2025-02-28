@@ -2,7 +2,6 @@
 layout:     post
 title:      "以前看到的asd+adhd的meme图"
 subtitle:   "asd，adhd meme"
-date:       2025-02-28 12:24:40
 author:     "Luoshan"
 catalog: true
 header-style: text
