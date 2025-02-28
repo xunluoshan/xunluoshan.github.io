@@ -79,6 +79,7 @@ RTI包含四个要素：覆盖全校的多层级指导和行为体系，筛查�
 ![走出迷宫 认识发展性阅读障碍](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/dyslexia-book-2.png)
 
 [对本书的归纳和理解（走出迷宫 认识发展性阅读障碍）书评](https://book.douban.com/review/15433075/)
+
 这里有网友对此书的一些总结。
 
 3.《聪明的笨小孩》
