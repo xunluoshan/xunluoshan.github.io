@@ -22,15 +22,15 @@ tags:
 
 I. 点击浏览器上方地址栏右侧，会有类似图中的小图标“**朗读此页内容**”
 
-![aud-browser1](https://purge.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-browser.png)
+![aud-browser1](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-browser.png)
 
 II. 上方「中间的按钮」单击可以**暂停**和**继续**朗读，右边的「**语音选项**」可以调整<mark>朗读速度</mark>和选择不同的<mark>音色</mark>
 
-![aud-browser2](https://purge.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-browser2.png)
+![aud-browser2](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-browser2.png)
 
 III. 向左和向右的箭头可以跳转到朗读**上一段**或者**下一段**
 
-![aud-browser3](https://purge.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-browser3.png)
+![aud-browser3](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-browser3.png)
 
 IV. **单击**网页中任意一处文字，可以**跳转到该点**继续往后阅读
 
@@ -70,16 +70,16 @@ V. 需要朗读的时候点「**从当前页开始朗读**」，需要停止的�
 
 - 以笔者本人的华为手机为例，其他手机步骤类似。读者也可以自行上网搜索图文教程或视频教程。
 
-![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone1.jpg)
+![](https://purge.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone1.jpg)
 
 
 ![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone2.jpg)
 
 
-![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone3.jpg)
+![](https://purge.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone3.jpg)
 
 
-![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone4.jpg)
+![](https://purge.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone4.jpg)
 
 >[!NOTE]
 >
