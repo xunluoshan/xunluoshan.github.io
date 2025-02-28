@@ -73,7 +73,7 @@ V. 需要朗读的时候点「**从当前页开始朗读**」，需要停止的�
 <img src="https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone1.jpg" width="500px">
 
 
-<img src="https://github.com/xunluoshan/xunluoshan.github.io/raw/master/img/attachment/aud-phone2.jpg" width="500px">
+<img src="https://purge.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone2.jpg" width="500px">
 
 
 <img src="https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone3.jpg" width="500px">
