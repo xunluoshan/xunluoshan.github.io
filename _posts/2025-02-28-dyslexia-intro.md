@@ -6,9 +6,8 @@ author:     "Luoshan"
 catalog: true
 header-style: text
 tags:
-  - 杂谈
-  - asd
-  - adhd
+  - 学习笔记
+  - dyslexia
 ---
 > 在下是这个领域的初学者，只花了一个晚上从0入门查找资料，很可能有不对的地方，欢迎指正
 
