@@ -1,8 +1,14 @@
-
-
-
-
-
+---
+layout:     post
+title:      "如何使用听觉获取文字信息"
+subtitle:   "auditory reading"
+author:     "Luoshan"
+catalog: true
+header-style: text
+tags:
+  - 生存技巧
+  - dyslexia
+---
 
 > 希望这篇文章可以为大家开阔一些思路，以下都是笔者本人自己用过的，不一定是最好的方案，读者也可按照类似思路搜索、尝试其他软件和方法
 > 
