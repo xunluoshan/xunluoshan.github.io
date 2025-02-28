@@ -70,16 +70,16 @@ V. 需要朗读的时候点「**从当前页开始朗读**」，需要停止的�
 
 - 以笔者本人的华为手机为例，其他手机步骤类似。读者也可以自行上网搜索图文教程或视频教程。
 
-![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone1.jpg-=500x)
+<img src="https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone1.jpg" width="500px">
 
 
-![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone2.jpg)
+<img src="https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone2.jpg" width="500px">
 
 
-![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone3.jpg)
+<img src="https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone3.jpg" width="500px">
 
 
-![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone4.jpg)
+<img src="https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone4.jpg" width="500px">
 
 >[!NOTE]
 >
