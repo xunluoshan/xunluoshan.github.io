@@ -73,27 +73,32 @@ V. 需要朗读的时候点「**从当前页开始朗读**」，需要停止的�
 ![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone1.jpg)
 
 
-![4c2f000347676a86e66218e7d1c0394.jpg](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phon2.jpg)
+![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone2.jpg)
 
 
+![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone3.jpg)
 
-![333de16ad205c45482b62ea8c3808d2.jpg](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone3.jpg)
 
-
-![cc916490303bb07ac3c4d68703f3f7b.jpg](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone4.jpg)
+![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone4.jpg)
 
 >[!NOTE]
 >
 >屏幕朗读基本的交互原理是：
+>
 >1.单指左右滑动——>上一项/下一项
+>
 >2.双指滑动——>翻页（相当于以前的单指滑动）
+>
 >3.单击——>朗读该处内容
+>
 >4.双击——>选按该处（相当于以前的单击）
 
 >[!CAUTION]
 >
 >如何关闭：
+>
 >1.长按电源键，进入关机/重启页面时，双指长按屏幕3s
+>
 >2.回到**设置**里面的**屏幕朗读**，双击**开关按钮**，再双击**确定**
 
 
