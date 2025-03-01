@@ -18,7 +18,7 @@ tags:
 ![asd-adhd-meme](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/asd-adhd-meme.png)
 
 
-----------------------------------
+
 #### 文字版
 
 为方便使用听读的读者，我在下方列出了文字版：
