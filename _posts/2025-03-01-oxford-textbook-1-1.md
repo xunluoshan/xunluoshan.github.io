@@ -18,12 +18,12 @@ tags:
 ### Two distinct capacities
 
 #### 1.collect clinical data (obj, accurate) & organize, communicate the data
-
-    need: skill & knowledge of clinical phenomena
-
+```
+       need: skill & knowledge of clinical phenomena
+```
 #### 2.intuitive understand each individual
 
-    need: knowledge of human nature and experience from former patients
+   need: knowledge of human nature and experience from former patients
 
 
 #### how to develop
@@ -31,7 +31,7 @@ tags:
 - 1st capacity can learn directly form book, 2rd cannot
 
 `phenomena = symptom(sign) -> syndrome`
-### examine patients
+### Examine patients
 `depends sound knowledge of how 'symptoms and signs' are defined`
 
 **elicit: (symptoms)**
