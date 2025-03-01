@@ -64,14 +64,16 @@ As a rule, objective signs are accorded greater weight.
 ### form and content
 - form: e.g. auditory [[hallucination]]; repeated intrusive thoughts 
 - content: e.g. the statement that he is homosexual.
-> Form is often critical when making diagnosis.
+> Form is often critical when making diagnosis.  
 > Content is less diagnostically useful, but can be important in management.
 - <u>Caution:</u> patients concern content more than form! (may be irritated)
+
 ### primary and secondary (symptoms or syndromes)
 - two different meanings:
 1. temporal: which occurs first.
 2. casual: primary means arising directly from the pathological process;
         secondary means as a reaction to a primary symptom.
+
 ### understanding and explanation
 1. Understanding: attempt to appreciate the patient's subjective experience.
 > need: intuition & empathy
@@ -82,6 +84,7 @@ As a rule, objective signs are accorded greater weight.
 `感性 vs. 理性
 `emotional & cognitive empathy`
 `person-centred therapy vs. cbt`
+
 ### Significance of individual symptoms
 - Psychiatric disorders are diagnosed when a defined group of symptoms (a syndrome) is present.
 - But almost any single symptom can be experienced by a healthy person.
@@ -89,6 +92,7 @@ As a rule, objective signs are accorded greater weight.
 
 - **In general**, a single symptom is not evidence of psychiatric disorder, but an indication for a thorough and repeated search for other symptoms of disorder.
 - <u>Danger of not adhering,</u> the study by Rosenhan(1973), 8 'patients' with just complaint of hearing words, denying other symptoms and behave normally, and eventually get diagnosis of schizophrenia.
+  
 ### patients' experience
 
 
