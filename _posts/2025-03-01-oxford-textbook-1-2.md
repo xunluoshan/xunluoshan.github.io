@@ -80,9 +80,9 @@ As a rule, objective signs are accorded greater weight.
 2. Explanation: account for events in terms of external factors.
 > need: knowledge of psychiatric aetiology
 
-`体验派 vs. 表现派`
-`感性 vs. 理性
-`emotional & cognitive empathy`
+`体验派 vs. 表现派`  
+`感性 vs. 理性  
+`emotional & cognitive empathy`  
 `person-centred therapy vs. cbt`
 
 ### Significance of individual symptoms
