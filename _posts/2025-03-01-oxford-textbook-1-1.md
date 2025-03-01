@@ -18,12 +18,12 @@ tags:
 ## Two distinct capacities
 
 1.collect clinical data (obj, accurate) & organize, communicate the data
-    need: skill & knowledge of clinical phenomena
-{:.info}
+
+   need: skill & knowledge of clinical phenomena{:.info}
 
 2.intuitive understand each individual
 
-    need: knowledge of human nature and experience from former patients
+   need: knowledge of human nature and experience from former patients
 {:.info}
 
 #### how to develop
