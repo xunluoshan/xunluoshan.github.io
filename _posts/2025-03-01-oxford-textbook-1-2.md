@@ -70,7 +70,7 @@ As a rule, objective signs are accorded greater weight.
 - <u>Caution:</u> patients concern content more than form! (may be irritated)
 
 ### primary and secondary (symptoms or syndromes)
-- two different meanings:
+- two different meanings:  
 1. temporal: which occurs first.
 2. casual: primary means arising directly from the pathological process;
         secondary means as a reaction to a primary symptom.
@@ -82,7 +82,7 @@ As a rule, objective signs are accorded greater weight.
 > need: knowledge of psychiatric aetiology
 
 `体验派 vs. 表现派`  
-`感性 vs. 理性  
+`感性 vs. 理性`  
 `emotional & cognitive empathy`  
 `person-centred therapy vs. cbt`
 
