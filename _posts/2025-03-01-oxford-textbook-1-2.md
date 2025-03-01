@@ -17,7 +17,10 @@ tags:
 
 ## Psychopathology
 `the study of abnormal states of mind`  
-here are two approaches to the subject:
+
+Here are two approaches to the subject:
+{:.info}
+
 ### descriptive psychopathology
 - <u>definition:</u> 
 > objective description of abnormal states of mind, 
@@ -60,7 +63,9 @@ here are two approaches to the subject:
 | subjective × | may diagnose    |               --               |
 
 ```
+
 As a rule, objective signs are accorded greater weight.
+
 ```
 ### form and content
 - form: e.g. auditory [[hallucination]]; repeated intrusive thoughts 
