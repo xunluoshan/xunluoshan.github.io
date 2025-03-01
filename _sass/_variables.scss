@@ -1,0 +1,17 @@
+$base: (
+  spacer:                 1rem,
+
+  border-radius-lg:       .8rem,
+  border-radius:          .4rem,
+  border-radius-sm:       .2rem
+);
+
+$spacers: (
+  0:                      0,
+  1:                      map-get($base, spacer) * .25,
+  2:                      map-get($base, spacer) * .5,
+  3:                      map-get($base, spacer),
+  4:                      map-get($base, spacer) * 1.5,
+  5:                      map-get($base, spacer) * 3
+);
+
