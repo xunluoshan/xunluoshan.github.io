@@ -47,6 +47,7 @@ here are two approaches to the subject:
 1. feature noted by observer
 2. a group of symptoms as a sign of particular disorder
 - Here, 'symptoms and signs' ≈ symptoms = phenomena of psychiatric disorders
+
 ### subjective and objective
 - **Objective:** features observed during the interview.
 -    often used to compare this with the patient's description of symptoms.
