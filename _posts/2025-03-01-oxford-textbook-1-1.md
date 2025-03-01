@@ -14,11 +14,16 @@ tags:
 
 # Introduction
 
-## 2 distinct capacities
+## Two distinct capacities
 1. collect clinical data (obj, accurate) & organize, communicate the data
->  need: skill & knowledge of clinical phenomena
+
+need: skill & knowledge of clinical phenomena
+{:.info}
+
 2. intuitive understand each individual
->   need: knowledge of human nature and experience from former patients
+
+need: knowledge of human nature and experience from former patients
+{:.info}
 
 #### how to develop
 - listen to patients & learn from more experienced psychiatrists
@@ -28,13 +33,16 @@ tags:
 ## examine patients
 `depends sound knowledge of how 'symptoms and signs' are defined`
 - **elicit: (symptoms)**
-> decide how far these phenomena fall into a pattern among different patients
-> by: observation about present state & information about history condition
+decide how far these phenomena fall into a pattern among different patients  
+by: observation about present state & information about history condition
+{:.info}
 - **identify: (syndrome)**
-> help predict prognosis & select effective treatment
-> by: accumulate the knowledge of causes, treatment, and outcome
+help predict prognosis & select effective treatment  
+by: accumulate the knowledge of causes, treatment, and outcome
+{:.info}
 - **interpret:**
-> integrate information to a syndromal diagnosis
+integrate information to a syndromal diagnosis
+{:.info}
 
 ### reading suggestion
    **two stages**
