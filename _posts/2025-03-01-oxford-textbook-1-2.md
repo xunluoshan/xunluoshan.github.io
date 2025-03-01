@@ -25,7 +25,7 @@ Here are two approaches to the subject:
 - <u>definition:</u> 
 > objective description of abnormal states of mind, 
 > especially  **conscious experiences** & **observable behavior**.
-- sometimes called *phenomenology* (slightly different), more than *symptomatology*.
+- Sometimes called *phenomenology* (slightly different), more than *symptomatology*.
 - <u>Aim:</u> 
 > 1. elucidate the essential qualities of morbid mental experiences
 > 2. understand each patients' experience of illness
@@ -43,7 +43,7 @@ Here are two approaches to the subject:
 - using functional brain imaging (FRI)
 
 
-## Terms and concepts
+## Terms and Concepts
 ### symptoms and signs
 - In psychiatry, there are only few signs, such as [[catatonic schizophrenia]] or [[anorexia nervosa]]. Most diagnostic information comes from the history and observation. 
 - **sign** refers to:
@@ -91,7 +91,7 @@ As a rule, objective signs are accorded greater weight.
 `emotional & cognitive empathy`  
 `person-centred therapy vs. cbt`
 
-### Significance of individual symptoms
+### significance of individual symptoms
 - Psychiatric disorders are diagnosed when a defined group of symptoms (a syndrome) is present.
 - But almost any single symptom can be experienced by a healthy person.
 > include hallucinations, but a delusion, if it is unequivocal and persistent, can be evidence of psychiatric disorder.
