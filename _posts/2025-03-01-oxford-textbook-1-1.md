@@ -53,7 +53,7 @@ tags:
 
 
 ### reading suggestion
-  ` two stages `
+> two stages
 - **1st reading**: introductory sections & general understanding to more frequently observed phenomena.
 - **2rd reading**: details of definition & less common symptoms & see real patients
 
