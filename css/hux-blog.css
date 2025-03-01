@@ -9,6 +9,33 @@
     padding-right: 5%;
   }
 }
+.article__content p.success {
+  padding: 0.5rem 1rem;
+  background-color: rgba(91, 170, 52, 0.1);
+  border: 1px solid #5baa34;
+  border-radius: 0.4rem;
+}
+
+.article__content p.info {
+  padding: 0.5rem 1rem;
+  background-color: rgba(28, 124, 212, 0.1);
+  border: 1px solid #1c7cd4;
+  border-radius: 0.4rem;
+}
+
+.article__content p.warning {
+  padding: 0.5rem 1rem;
+  background-color: rgba(201, 119, 31, 0.1);
+  border: 1px solid #c9771f;
+  border-radius: 0.4rem;
+}
+
+.article__content p.error {
+  padding: 0.5rem 1rem;
+  background-color: rgba(218, 61, 69, 0.1);
+  border: 1px solid #da3d45;
+  border-radius: 0.4rem;
+}
 .sidebar-container {
   color: #bfbfbf;
   font-size: 14px;
