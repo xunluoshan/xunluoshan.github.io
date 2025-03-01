@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "以前看到的asd+adhd的meme图"
-subtitle:   "asd，adhd meme"
+subtitle:   "asd, adhd meme"
 author:     "Luoshan"
 catalog: true
 header-style: text
@@ -18,7 +18,7 @@ tags:
 
 
 ----------------------------------
-为方便使用听读的读者，我在下方列出了文字版（以及笔者提供的翻译）：
+为方便使用听读的读者，我在下方列出了文字版：
 
 What ADHD & autism feel like...
 
@@ -55,7 +55,7 @@ What ADHD & autism feel like...
 
 Having both ADHD & autism can sometimes feel like there are contradicting forces within you.
 
-Traits that seem incompatible on the surface can exist in the same person .
+Traits that seem incompatible on the surface can exist in the same person.
 
 Everyone with ADHD & autism is different.
  
