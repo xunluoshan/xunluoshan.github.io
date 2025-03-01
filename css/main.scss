@@ -5,30 +5,30 @@
 
 .article__content {
   p.success {
-    padding: map-get($spacers, 2) map-get($spacers, 3);
+    padding: .5rem 1rem;
     background-color: rgba(#5baa34, .1);
     border: 1px solid #5baa34;
-    border-radius: map-get($base, border-radius);
+    border-radius: .4rem;
   }
 
   p.info {
-    padding: map-get($spacers, 2) map-get($spacers, 3);
+    padding: .5rem 1rem;
     background-color: rgba(#1c7cd4, .1);
     border: 1px solid #1c7cd4;
-    border-radius: map-get($base, border-radius);
+    border-radius: .4rem;
   }
 
   p.warning {
-    padding: map-get($spacers, 2) map-get($spacers, 3);
+    padding: .5rem 1rem;
     background-color: rgba(#c9771f, .1);
     border: 1px solid #c9771f;
-    border-radius: map-get($base, border-radius);
+    border-radius: .4rem;
   }
 
   p.error {
-    padding: map-get($spacers, 2) map-get($spacers, 3);
+    padding: .5rem 1rem;
     background-color: rgba(#da3d45, .1);
     border: 1px solid #da3d45;
-    border-radius: map-get($base, border-radius);
+    border-radius: .4rem;
   }
 }
