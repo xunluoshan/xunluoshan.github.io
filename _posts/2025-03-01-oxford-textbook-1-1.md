@@ -20,13 +20,13 @@ tags:
 #### 1.collect clinical data (obj, accurate) & organize, communicate the data
 ```
 
-       need: skill & knowledge of clinical phenomena
+       Need: skill & knowledge of clinical phenomena
 
 ```
 #### 2.intuitive understand each individual
 ```
   
-       need: knowledge of human nature and experience from former patients
+       Need: knowledge of human nature and experience from former patients
   
 ```
 
@@ -38,25 +38,25 @@ tags:
 ### Examine patients
 `depends sound knowledge of how 'symptoms and signs' are defined`
 
-**elicit: (symptoms)**
+**Elicit: (symptoms)**
 {:.info}
 
 🐶 decide how far these phenomena fall into a pattern among different patients  
 🐶 by: observation about present state & information about history condition
 
-**identify: (syndrome)**
+**Identify: (syndrome)**
 {:.info}
 
 🐶 help predict prognosis & select effective treatment  
 🐶 by: accumulate the knowledge of causes, treatment, and outcome
 
-**interpret:**
+**Interpret:**
 {:.info}
 
 🐶 integrate information to a syndromal diagnosis
 
 
-### reading suggestion
+### Reading suggestion
 > two stages
 
 - **1st reading**: introductory sections & general understanding to more frequently observed phenomena.
