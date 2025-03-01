@@ -12,27 +12,28 @@ tags:
   - Oxford textbook
 ---
 
-# Introduction
+## Introduction
 
 
-## Two distinct capacities
+### Two distinct capacities
 
 #### 1.collect clinical data (obj, accurate) & organize, communicate the data
 
-   need: skill & knowledge of clinical phenomena
+    need: skill & knowledge of clinical phenomena
 
 #### 2.intuitive understand each individual
 
-   need: knowledge of human nature and experience from former patients
-{:.info}
+    need: knowledge of human nature and experience from former patients
+
 
 #### how to develop
 - listen to patients & learn from more experienced psychiatrists
 - 1st capacity can learn directly form book, 2rd cannot
 
 `phenomena = symptom(sign) -> syndrome`
-## examine patients
+### examine patients
 `depends sound knowledge of how 'symptoms and signs' are defined`
+
 **elicit: (symptoms)**
 {:.info}
 
@@ -52,7 +53,7 @@ tags:
 
 
 ### reading suggestion
-  ` **two stages** `
+  ` two stages `
 - **1st reading**: introductory sections & general understanding to more frequently observed phenomena.
 - **2rd reading**: details of definition & less common symptoms & see real patients
 
