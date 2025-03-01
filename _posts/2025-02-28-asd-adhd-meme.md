@@ -20,6 +20,8 @@ tags:
 ----------------------------------
 为方便使用听读的读者，我在下方列出了文字版（以及笔者提供的翻译）：
 
+What ADHD & autism feel like...
+
 | ADHD                                                 | Autism                                               |
 | ---------------------------------------------------- | ---------------------------------------------------- |
 | Making spontaneous plans                             | Getting very upset if those plans are interrupted    |
@@ -50,3 +52,12 @@ tags:
 | Having difficulty sitting still        | Hypersensitive to other people fidgeting |
 | Interrupting others when they are busy | Hate being bothered while in hyperfocus  |
 
+
+Having both ADHD & autism can sometimes feel like there are contradicting forces within you.
+
+Traits that seem incompatible on the surface can exist in the same person .
+
+Everyone with ADHD & autism is different.
+ 
+These are the contradicting traits that I personally experience as someone with both ADHD & autism.
+ 
