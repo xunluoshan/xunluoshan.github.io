@@ -14,16 +14,16 @@ tags:
 有人总结的在ta身上asd和adhd相互冲突的点：
 （仅供娱乐，并无很多科学依据，且每个人和每个人是很不一样的）
 
-##### 图片
+#### 图片
 ![asd-adhd-meme](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/asd-adhd-meme.png)
 
 
 ----------------------------------
-##### 文字版
+#### 文字版
 
 为方便使用听读的读者，我在下方列出了文字版：
 
-- 英文版（原版）
+##### 英文版（原版）
 
 What ADHD & autism feel like...
 
@@ -66,7 +66,7 @@ Everyone with ADHD & autism is different.
  
 These are the contradicting traits that I personally experience as someone with both ADHD & autism.
 
-- 中文版
+##### 中文版
 
  ADHD 和 ASD 的感觉...
 
