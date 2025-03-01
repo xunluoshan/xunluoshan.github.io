@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "1 Signs and symptoms of psychiatric disorder--introduction"
+title:      "📖1.1 Signs and symptoms of psychiatric disorder--introduction"
 subtitle:   "Shorter Oxford Textbook of Psychiatry"
 date:       "2025-03-01 20:40:00"
 author:     "Luoshan"
