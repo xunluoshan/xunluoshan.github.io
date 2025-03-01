@@ -16,7 +16,7 @@ tags:
 ——about methods of studying symptoms and signs
 
 ## Psychopathology
-`the study of abnormal states of mind`
+`the study of abnormal states of mind`  
 here are two approaches to the subject:
 ### descriptive psychopathology
 - <u>definition:</u> 
