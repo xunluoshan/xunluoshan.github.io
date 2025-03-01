@@ -17,12 +17,12 @@ tags:
 ## Two distinct capacities
 1. collect clinical data (obj, accurate) & organize, communicate the data
 
-need: skill & knowledge of clinical phenomena
+    need: skill & knowledge of clinical phenomena
 {:.info}
 
 2. intuitive understand each individual
 
-need: knowledge of human nature and experience from former patients
+    need: knowledge of human nature and experience from former patients
 {:.info}
 
 #### how to develop
@@ -32,15 +32,15 @@ need: knowledge of human nature and experience from former patients
 `phenomena = symptom(sign) -> syndrome`
 ## examine patients
 `depends sound knowledge of how 'symptoms and signs' are defined`
-- **elicit: (symptoms)**
+- **elicit: (symptoms)**  
 decide how far these phenomena fall into a pattern among different patients  
 by: observation about present state & information about history condition
 {:.info}
-- **identify: (syndrome)**
+- **identify: (syndrome)**  
 help predict prognosis & select effective treatment  
 by: accumulate the knowledge of causes, treatment, and outcome
 {:.info}
-- **interpret:**
+- **interpret:**  
 integrate information to a syndromal diagnosis
 {:.info}
 
