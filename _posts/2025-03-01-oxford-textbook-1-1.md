@@ -19,12 +19,16 @@ tags:
 
 #### 1.collect clinical data (obj, accurate) & organize, communicate the data
 ```
+
        need: skill & knowledge of clinical phenomena
+
 ```
 #### 2.intuitive understand each individual
-
-   need: knowledge of human nature and experience from former patients
-
+```
+  
+       need: knowledge of human nature and experience from former patients
+  
+```
 
 #### how to develop
 - listen to patients & learn from more experienced psychiatrists
