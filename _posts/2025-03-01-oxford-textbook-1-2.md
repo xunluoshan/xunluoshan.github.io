@@ -22,16 +22,16 @@ Here are two approaches to the subject:
 {:.info}
 
 ### descriptive psychopathology
-- <u>definition:</u> 
-> objective description of abnormal states of mind, 
-> especially  **conscious experiences** & **observable behavior**.
+- <u>definition:</u>  
+objective description of abnormal states of mind,   
+especially  **conscious experiences** & **observable behavior**.
 - Sometimes called *phenomenology* (slightly different), more than *symptomatology*.
-- <u>Aim:</u> 
-> 1. elucidate the essential qualities of morbid mental experiences
-> 2. understand each patients' experience of illness
-- <u>Exponent:</u> 
-> *Karl Jaspers*
-> *General psychopathology* , first published in 1913, still the most complete account of the subject.
+- <u>Aim:</u>   
+1. elucidate the essential qualities of morbid mental experiences  
+2. understand each patients' experience of illness
+- <u>Exponent:</u>   
+*Karl Jaspers*  
+*General psychopathology* , first published in 1913, still the most complete account of the subject.
 
 ### experimental psychopathology
 `explain & describe abnormal mental phenomena`
@@ -54,8 +54,10 @@ Here are two approaches to the subject:
 ### subjective and objective
 - **Objective:** features observed during the interview.
 -    often used to compare this with the patient's description of symptoms.
-> low mood, tearfulness      ---subjective
-> poor eye contact, psychomotor retardation, crying      ---objective
+
+low mood, tearfulness      ---subjective  
+poor eye contact, psychomotor retardation, crying      ---objective
+{:.success}
 
 |              | objective √     |          objective ×           |
 | ------------ | :-------------: | :----------------------------: |
@@ -64,7 +66,7 @@ Here are two approaches to the subject:
 
 ```
 
-As a rule, objective signs are accorded greater weight.
+  As a rule, objective signs are accorded greater weight.
 
 ```
 ### form and content
