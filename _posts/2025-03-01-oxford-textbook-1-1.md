@@ -17,7 +17,7 @@ tags:
 
 ### Two distinct capacities
 
-#### 1.collect clinical data (obj, accurate) & organize, communicate the data
+#### 1.collect clinical data (objective, accurate) & organize, communicate the data
 ```
 
        Need: skill & knowledge of clinical phenomena
