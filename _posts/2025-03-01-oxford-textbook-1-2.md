@@ -36,7 +36,7 @@ Here are two approaches to the subject:
 ### experimental psychopathology
 `explain & describe abnormal mental phenomena`
 1. <u>psychodynamic psychopathology</u> -- originate in Freud's psychoanalysis  
-🐶 causes are unconscious mental processes,
+🐶 causes are unconscious mental processes,  
 🐶 including mechanisms of repression and projection
 3. <u>cognitive and behavioral psychology</u> 
 - empirically measurable and verifiable conscious psychological processes
