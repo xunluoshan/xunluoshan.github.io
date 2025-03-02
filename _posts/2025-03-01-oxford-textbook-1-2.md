@@ -36,8 +36,9 @@ Here are two approaches to the subject:
 ### experimental psychopathology
 `explain & describe abnormal mental phenomena`
 1. <u>psychodynamic psychopathology</u> -- originate in Freud's psychoanalysis  
-🐶 causes are unconscious mental processes, including mechanisms of repression and projection
-2. <u>cognitive and behavioral psychology</u> 
+🐶 causes are unconscious mental processes,
+🐶 including mechanisms of repression and projection
+3. <u>cognitive and behavioral psychology</u> 
 - empirically measurable and verifiable conscious psychological processes
 - using functional brain imaging (FRI)
 
@@ -65,42 +66,33 @@ Here are two approaches to the subject:
 
 ```
 
-  As a rule, objective signs are accorded greater weight.
+  "As a rule, objective signs are accorded greater weight."
 
 ```
 ### form and content
 - **form**: e.g. auditory [hallucination](https://en.wikipedia.org/wiki/Hallucination); repeated intrusive thoughts 
 - **content**: e.g. the statement that he is homosexual.
 
-    Form is often critical when making diagnosis.  
-    Content is less diagnostically useful, but can be important in management.
+🐶   Form is often critical when making diagnosis.  
+🐶   Content is less diagnostically useful, but can be important in management.
 {:.success}
 
-⚠️ <u>**Caution**:</u> patients concern content more than form! (may be irritated)
+⚠️ **Caution**:  
+patients concern content more than form! (may be irritated)
 {:.warning}
 
 ### primary and secondary (symptoms or syndromes)
-- two different meanings:  
+**Two different meanings**:  
 1. temporal: which occurs first.
 2. casual: primary means arising directly from the pathological process;
         secondary means as a reaction to a primary symptom.
 
 ### understanding and explanation
 1. **Understanding**: attempt to appreciate the patient's subjective experience.
-
-```
-
-      need: intuition & empathy
-
-```
+- 🔧Need: intuition & empathy
 
 2. **Explanation**: account for events in terms of external factors.
-
-```
-
-      need: knowledge of psychiatric aetiology
-
-```
+- 🔧Need: knowledge of psychiatric aetiology
 
 `体验派 vs. 表现派`  
 `感性 vs. 理性`  
