@@ -72,11 +72,11 @@ Here are two approaches to the subject:
 - **form**: e.g. auditory [hallucination](https://en.wikipedia.org/wiki/Hallucination); repeated intrusive thoughts 
 - **content**: e.g. the statement that he is homosexual.
 
-> Form is often critical when making diagnosis.  
-> Content is less diagnostically useful, but can be important in management.
+    Form is often critical when making diagnosis.  
+    Content is less diagnostically useful, but can be important in management.
 {:.success}
 
-- ⚠️ <u>Caution:</u> patients concern content more than form! (may be irritated)
+⚠️ <u>**Caution**:</u> patients concern content more than form! (may be irritated)
 {:.warning}
 
 ### primary and secondary (symptoms or syndromes)
@@ -90,7 +90,7 @@ Here are two approaches to the subject:
 
 ```
 
-need: intuition & empathy
+      need: intuition & empathy
 
 ```
 
@@ -98,7 +98,7 @@ need: intuition & empathy
 
 ```
 
-need: knowledge of psychiatric aetiology
+      need: knowledge of psychiatric aetiology
 
 ```
 
