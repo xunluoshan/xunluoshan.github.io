@@ -94,7 +94,7 @@ patients concern content more than form! (may be irritated)
 2. **Explanation**: account for events in terms of external factors.
 - 🔧Need: knowledge of psychiatric aetiology
 
-Luoshan's free association:
+> Luoshan's free association:  
 `体验派 vs. 表现派`  
 `感性 vs. 理性`  
 `emotional & cognitive empathy`  
