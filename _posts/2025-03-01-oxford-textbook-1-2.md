@@ -106,7 +106,7 @@ patients concern content more than form! (may be irritated)
 > include hallucinations, but a delusion, if it is unequivocal and persistent, can be evidence of psychiatric disorder.
 
 - **In general**, a single symptom is not evidence of psychiatric disorder, but an indication for a thorough and repeated search for other symptoms of disorder.
-- <u>Danger of not adhering,</u> the study by Rosenhan(1973), 8 'patients' with just complaint of hearing words, denying other symptoms and behave normally, and eventually get diagnosis of schizophrenia.
+- <u>Danger of not adhering this principle☝️,</u> the study by Rosenhan(1973), 8 'patients' with just complaint of hearing words, denying other symptoms and behave normally, and eventually get diagnosis of schizophrenia.
   
 ### patients' experience
 
