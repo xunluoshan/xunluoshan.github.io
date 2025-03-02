@@ -109,7 +109,7 @@ patients concern content more than form! (may be irritated)
 - <u>Danger of not adhering this principle☝️,</u> the study by Rosenhan(1973), 8 'patients' with just complaint of hearing words, denying other symptoms and behave normally, and eventually get diagnosis of schizophrenia.
   
 ### patients' experience
-- Subjective matter of psychopathology is not only **symptoms and signs**, but also **patient's experience of illness**, the way in which psychiatric disorder <u>changes his view</u> of <mark>himself</mark>, his hopes for the <mark>future</mark>, and his view of the <mark>world</mark>.
+Subjective matter of psychopathology is not only **symptoms and signs**, but also **patient's experience of illness**, the way in which psychiatric disorder <u>changes his view</u> of <mark>himself</mark>, his hopes for the <mark>future</mark>, and his view of the <mark>world</mark>.
 
 **life-story approach:**
 {:.info}
@@ -120,4 +120,5 @@ patients concern content more than form! (may be irritated)
 
 
 ### cultural variation in psychopathology
+- Although core symptoms present in people from different cultures, yet there are **cultural differences** in <u>how symptoms present</u> in clinical settings and the <u>meanings attributed</u> to them.
 - 
