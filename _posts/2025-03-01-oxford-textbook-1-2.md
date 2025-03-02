@@ -124,8 +124,8 @@ Subjective matter of psychopathology is not only **symptoms and signs**, but als
 >depression can presents with prominent somatic symptoms among Asian people.  
 >delusions of being cursed are common in sub-Saharan Africans, but rare in Europeans.
 
-- Cultural differences also affect person's subjective experience of illness and their understand of it.
+- Cultural differences also affect person's <u>subjective experience of illness</u> and their <u>understand</u> of it.
 
-> psychiatric disorder are ascribed to witchcraft in some areas.
+> the effects of psychiatric disorder are ascribed to witchcraft in some areas.
 
-> In many culture, mental illness are greatly stigmatized, person in such a culture, his view of himself and future will be very different from a person lived in more tolerated society.
+> In many culture, mental illness is greatly stigmatized, person in such a culture, his view of himself and future will be very different from a person lived in more tolerated society.
