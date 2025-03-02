@@ -94,14 +94,15 @@ patients concern content more than form! (may be irritated)
 2. **Explanation**: account for events in terms of external factors.
 - 🔧Need: knowledge of psychiatric aetiology
 
+Luoshan's free association:
 `体验派 vs. 表现派`  
 `感性 vs. 理性`  
 `emotional & cognitive empathy`  
 `person-centred therapy vs. cbt`
 
 ### significance of individual symptoms
-- Psychiatric disorders are diagnosed when a defined group of symptoms (a syndrome) is present.
-- But almost any single symptom can be experienced by a healthy person.
+- Psychiatric disorders are diagnosed when <u>a defined group of symptoms</u> (a syndrome) is present.
+- But almost **any single** symptom can be experienced by a healthy person.
 > include hallucinations, but a delusion, if it is unequivocal and persistent, can be evidence of psychiatric disorder.
 
 - **In general**, a single symptom is not evidence of psychiatric disorder, but an indication for a thorough and repeated search for other symptoms of disorder.
