@@ -1,8 +1,17 @@
+---
+layout:     post
+title:      "强迫症暴露与反应阻断疗法手册"
+subtitle:   "Exposure responsive prevention"
+date:       "2025-03-02 19:40:00"
+author:     "Luoshan"
+catalog: true
+header-style: text
+tags:
+  - ocd
+  - treatment
+---
 
-
-
-
-
+> 来自北六一位医生的分享
 
 假如您有强迫障碍，您现在就可以学习到最先进的治疗模式。过去二十年当中，行为治疗对于强迫障碍有极大的功效。在这手册当中，教导您成为自己的行为治疗师。学习某些基本的强迫症知识，了解强迫障碍是源自于身体因素，并且是**可以治疗**的。您**可以克制强迫动作的冲动，与控制恼人的强迫思考**。
 
