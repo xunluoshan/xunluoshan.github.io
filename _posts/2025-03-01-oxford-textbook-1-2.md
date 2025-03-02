@@ -81,10 +81,18 @@ As a rule, objective signs are accorded greater weight.
         secondary means as a reaction to a primary symptom.
 
 ### understanding and explanation
-1. Understanding: attempt to appreciate the patient's subjective experience.
-> need: intuition & empathy
-2. Explanation: account for events in terms of external factors.
-> need: knowledge of psychiatric aetiology
+1. **Understanding**: attempt to appreciate the patient's subjective experience.
+```
+
+need: intuition & empathy
+
+```
+2. **Explanation**: account for events in terms of external factors.
+```
+
+need: knowledge of psychiatric aetiology
+
+```
 
 `体验派 vs. 表现派`  
 `感性 vs. 理性`  
