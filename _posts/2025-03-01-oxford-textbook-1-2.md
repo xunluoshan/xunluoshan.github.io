@@ -35,7 +35,7 @@ Here are two approaches to the subject:
 
 ### experimental psychopathology
 `explain & describe abnormal mental phenomena`
-1. <u>psychodynamic psychopathology</u> -- originate in Freud's psychoanalysis
+1. <u>psychodynamic psychopathology</u> -- originate in Freud's psychoanalysis  
 🐶 causes are unconscious mental processes, including mechanisms of repression and projection
 2. <u>cognitive and behavioral psychology</u> 
 - empirically measurable and verifiable conscious psychological processes
@@ -54,8 +54,8 @@ Here are two approaches to the subject:
 - **Objective:** features observed during the interview.
 -    often used to compare this with the patient's description of symptoms.
 
-low mood, tearfulness      ---subjective  
-poor eye contact, psychomotor retardation, crying      ---objective
+  low mood, tearfulness      ---subjective  
+  poor eye contact, psychomotor retardation, crying      ---objective
 {:.success}
 
 |              | objective √     |          objective ×           |
@@ -69,11 +69,15 @@ poor eye contact, psychomotor retardation, crying      ---objective
 
 ```
 ### form and content
-- form: e.g. auditory [hallucination](https://en.wikipedia.org/wiki/Hallucination); repeated intrusive thoughts 
-- content: e.g. the statement that he is homosexual.
+- **form**: e.g. auditory [hallucination](https://en.wikipedia.org/wiki/Hallucination); repeated intrusive thoughts 
+- **content**: e.g. the statement that he is homosexual.
+
 > Form is often critical when making diagnosis.  
 > Content is less diagnostically useful, but can be important in management.
+{:.success}
+
 - ⚠️ <u>Caution:</u> patients concern content more than form! (may be irritated)
+{:.warning}
 
 ### primary and secondary (symptoms or syndromes)
 - two different meanings:  
@@ -83,7 +87,7 @@ poor eye contact, psychomotor retardation, crying      ---objective
 
 ### understanding and explanation
 1. **Understanding**: attempt to appreciate the patient's subjective experience.
-2. 
+
 ```
 
 need: intuition & empathy
