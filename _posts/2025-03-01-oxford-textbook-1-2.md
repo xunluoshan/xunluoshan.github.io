@@ -121,7 +121,7 @@ Subjective matter of psychopathology is not only **symptoms and signs**, but als
 
 ### cultural variation in psychopathology
 - Although core symptoms present in people from different cultures, yet there are **cultural differences** in <u>how symptoms present</u> in clinical settings and the <u>meanings attributed</u> to them.
->depression presents in prominent somatic symptoms among Asian people.  
+>depression can presents with prominent somatic symptoms among Asian people.  
 >delusions of being cursed are common in sub-Saharan Africans, but rare in Europeans.
 
 - Cultural differences also affect person's subjective experience of illness and their understand of it.
