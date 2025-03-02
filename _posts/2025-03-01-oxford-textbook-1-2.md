@@ -23,21 +23,20 @@ Here are two approaches to the subject:
 
 ### descriptive psychopathology
 - <u>definition:</u>  
-objective description of abnormal states of mind,   
-especially  **conscious experiences** & **observable behavior**.
+🐶 objective description of abnormal states of mind,   
+🐶 especially  **conscious experiences** & **observable behavior**.
 - Sometimes called *phenomenology* (slightly different), more than *symptomatology*.
 - <u>Aim:</u>   
 1. elucidate the essential qualities of morbid mental experiences  
 2. understand each patients' experience of illness
 - <u>Exponent:</u>   
-*Karl Jaspers*  
-*General psychopathology* , first published in 1913, still the most complete account of the subject.
+🐶 ***Karl Jaspers***  
+🐶 *General psychopathology* , first published in 1913, still the most complete account of the subject.
 
 ### experimental psychopathology
 `explain & describe abnormal mental phenomena`
 1. <u>psychodynamic psychopathology</u> -- originate in Freud's psychoanalysis
->   causes are unconscious mental processes
->   , including mechanisms of repression and projection
+🐶 causes are unconscious mental processes, including mechanisms of repression and projection
 2. <u>cognitive and behavioral psychology</u> 
 - empirically measurable and verifiable conscious psychological processes
 - using functional brain imaging (FRI)
@@ -45,7 +44,7 @@ especially  **conscious experiences** & **observable behavior**.
 
 ## Terms and Concepts
 ### symptoms and signs
-- In psychiatry, there are only few signs, such as [[catatonic schizophrenia]] or [[anorexia nervosa]]. Most diagnostic information comes from the history and observation. 
+- In psychiatry, there are only few signs, such as [catatonic schizophrenia](https://www.ncbi.nlm.nih.gov/books/NBK563222/) or [anorexia nervosa](https://en.wikipedia.org/wiki/Anorexia_nervosa). Most diagnostic information comes from the history and observation. 
 - **sign** refers to:
 1. feature noted by observer
 2. a group of symptoms as a sign of particular disorder
@@ -70,11 +69,11 @@ poor eye contact, psychomotor retardation, crying      ---objective
 
 ```
 ### form and content
-- form: e.g. auditory [[hallucination]]; repeated intrusive thoughts 
+- form: e.g. auditory [hallucination](https://en.wikipedia.org/wiki/Hallucination); repeated intrusive thoughts 
 - content: e.g. the statement that he is homosexual.
 > Form is often critical when making diagnosis.  
 > Content is less diagnostically useful, but can be important in management.
-- <u>Caution:</u> patients concern content more than form! (may be irritated)
+- ⚠️ <u>Caution:</u> patients concern content more than form! (may be irritated)
 
 ### primary and secondary (symptoms or syndromes)
 - two different meanings:  
@@ -84,12 +83,15 @@ poor eye contact, psychomotor retardation, crying      ---objective
 
 ### understanding and explanation
 1. **Understanding**: attempt to appreciate the patient's subjective experience.
+2. 
 ```
 
 need: intuition & empathy
 
 ```
+
 2. **Explanation**: account for events in terms of external factors.
+
 ```
 
 need: knowledge of psychiatric aetiology
