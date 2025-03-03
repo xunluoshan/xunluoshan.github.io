@@ -128,7 +128,8 @@ Subjective matter of psychopathology is not only **symptoms and signs**, but als
 > the effects of psychiatric disorder are ascribed to witchcraft in some areas.
 
 > In many culture, mental illness is greatly stigmatized, person in such a culture, his view of himself and future will be very different from a person lived in more tolerated society.
--------------------------
+
+
 
 
 # 一般问题
