@@ -63,7 +63,7 @@ tags:
 - **2rd reading**: details of definition & less common symptoms & see real patients
 
 --------------------------
-> 应小朋友的要求，加了AI翻译，我校对的中文版。
+> 推荐阅读英文，是我记的笔记原文。中文为笔者用AI翻译再校对之后的版本，供有需要的人参考。
 
 ## 引言
 
