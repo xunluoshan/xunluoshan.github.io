@@ -63,6 +63,8 @@ tags:
 - **2rd reading**: details of definition & less common symptoms & see real patients
 
 --------------------------
+> 应小朋友的要求，加了AI翻译，我校对的中文版。
+
 ## 引言
 
 ### 两种不同的能力
