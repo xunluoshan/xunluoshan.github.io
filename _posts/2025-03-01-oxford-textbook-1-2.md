@@ -70,7 +70,7 @@ Here are two approaches to the subject:
 
 ```
 ### form and content
-- **form**: e.g. auditory [hallucination](https://en.wikipedia.org/wiki/Hallucination); repeated intrusive thoughts 
+- **form**: e.g. [auditory hallucination](https://en.wikipedia.org/wiki/Auditory_hallucination); repeated intrusive thoughts 
 - **content**: e.g. the statement that he is homosexual.
 
 🐶   Form is often critical when making diagnosis.  
@@ -175,8 +175,8 @@ Subjective matter of psychopathology is not only **symptoms and signs**, but als
 - **客观：** 在访谈中观察到的特征。
 - 通常用于与患者对症状的描述进行比较。
 
-情绪低落、流泪      ---主观  
-眼神接触差、精神运动迟缓、哭泣      ---客观
+情绪低落、流泪      ————主观  
+眼神接触差、精神运动迟缓、哭泣      ————客观
 {:.success}
 
 |              | 客观 √     |          客观 ×           |
@@ -190,7 +190,7 @@ Subjective matter of psychopathology is not only **symptoms and signs**, but als
 
 ```
 ### 形式和内容
-- **形式**：例如听觉[幻觉](https://en.wikipedia.org/wiki/Hallucination)；反复侵入性思维
+- **形式**：例如[听幻觉](https://en.wikipedia.org/wiki/Auditory_hallucination)；反复侵入性思维
 - **内容**：例如他声称自己是同性恋。
 
 🐶  形式在诊断时通常至关重要。  
