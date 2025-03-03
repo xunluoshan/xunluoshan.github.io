@@ -175,8 +175,8 @@ Subjective matter of psychopathology is not only **symptoms and signs**, but als
 - **客观：** 在访谈中观察到的特征。
 - 通常用于与患者对症状的描述进行比较。
 
-  情绪低落、流泪      ---主观  
-  眼神接触差、精神运动迟缓、哭泣      ---客观
+情绪低落、流泪      ---主观  
+眼神接触差、精神运动迟缓、哭泣      ---客观
 {:.success}
 
 |              | 客观 √     |          客观 ×           |
@@ -186,7 +186,7 @@ Subjective matter of psychopathology is not only **symptoms and signs**, but als
 
 ```
 
-  "通常，客观体征被赋予更大的权重。"
+  "通常，客观体征在诊断中被赋予更大的权重。"
 
 ```
 ### 形式和内容
@@ -235,7 +235,7 @@ Subjective matter of psychopathology is not only **symptoms and signs**, but als
 {:.info}
 
 - 精神科医生必须像传记作者理解其对象一样理解患者。
-- 无法从教科书中吸收，最好通过花时间倾听患者来学习。
+- 无法从教科书中获取，最好通过花时间倾听患者来学习。
 - 阅读传记或文学作品可能有所帮助。
 
 ### 精神病理学中的文化差异
@@ -246,4 +246,4 @@ Subjective matter of psychopathology is not only **symptoms and signs**, but als
 - 文化差异还影响个人的<u>疾病主观体验</u>及对其的<u>理解</u>。
 > 在某些地区，精神障碍的影响被归因于巫术。
 
-> 在许多文化中，精神疾病受到极大的污名化，生活在这样的文化中的人，他对自己的看法和未来将与生活在更宽容社会中的人非常不同。
+> 在许多文化中，精神疾病受到极大的污名化，生活在这样的文化中的人，他对自己和未来的看法与生活在更宽容社会中的人非常不同。
