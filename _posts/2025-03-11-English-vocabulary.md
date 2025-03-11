@@ -83,5 +83,47 @@ quantum mechanics
 | anisotropy                             | 各向异性        |
 | argument                               | 辐角          |
 | antenna                                | 天线          |
-|                                        |             |
+| calorifics                             | 热学          |
+| astigmatoscope                         | 散光镜         |
+| centrifugal force                      |             |
+| centripetal acceleration               | 向心加速度       |
+| coordinate system                      | 坐标系         |
+| corpuscular property                   | 粒子性         |
+| eddy current                           | 涡流          |
+| creepage                               | 漏电          |
+| elasticity                             |             |
+| double slit diffraction                |             |
+| lightening rod                         | 避雷针         |
+| microdetector                          | 灵敏电流计       |
+| micrometer caliper                     | 螺旋测微器       |
+| piezometer                             | 压强计         |
+| pitch                                  | 音调          |
+| plasma                                 |             |
+| liquefaction                           | 液化          |
+| longitudinal wave                      | 纵波          |
+| luminous intensity                     | 发光强度        |
+| moment of force                        | 力矩          |
+| momentum                               | 动量          |
+| optical path difference                | 光程差         |
+| optically denser（thinner） medium     | 光密（疏）介质     |
+| oscillograph                           | 示波器         |
+| parallel connection of condensers      | 电容器并联       |
+| **polarization**                       | 偏振          |
+| polarized light                        | 偏振光         |
+| polycrystal                            | 多晶体         |
+| positron                               | 正电子         |
+| magnetic induction intensity           | 磁感应强度       |
+| magnetic field intensity               | 磁场强度        |
+| multimeter                             | 多用（电）表      |
+| musical quality                        | 音色          |
+| neutralization                         | 中和          |
+| parallel resonance circuit             | 并联谐振电路      |
+| pendulum                               | 摆           |
+| **penumbra**                           | 半影          |
+| potentiometer                          | 电势差计        |
+| prism                                  |             |
+| projectile                             | 抛体          |
+| proton                                 | 质子          |
+| pulley                                 | 滑轮          |
+| magnet                                 | 磁体          |
 
