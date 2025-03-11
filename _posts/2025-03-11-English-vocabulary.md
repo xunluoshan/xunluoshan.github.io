@@ -9,7 +9,10 @@ tags:
   - 杂谈
 
 ---
-
+theoretical mechanics
+electrodynamics
+thermodynamics and statistical mechanics
+quantum mechanics
 
 
 | crest                                  | 波峰          |
