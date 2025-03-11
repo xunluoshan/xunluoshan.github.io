@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      "英语单词"
+subtitle:   ""
+author:     "Luoshan"
+catalog: true
+header-style: text
+tags:
+  - 杂谈
+
+---
 
 
 | crest                                  | 波峰    |
