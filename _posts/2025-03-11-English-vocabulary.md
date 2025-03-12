@@ -126,4 +126,25 @@ quantum mechanics
 | proton                                 | 质子          |
 | pulley                                 | 滑轮          |
 | magnet                                 | 磁体          |
-
+| magnification                          | 放大率         |
+| manometer                              | 流体压强计       |
+| mass defect                            | 质量亏损        |
+| object distance                        | 物距          |
+| neutron                                | 中子          |
+| perfect elastic (inelastic) collision  |             |
+| periscope                              | 潜望镜         |
+| permanent magnet                       | 永磁体         |
+| permittivity                           | 介电常数，电容率    |
+| radius of gyration                     | 回旋半径        |
+| quantization                           |             |
+| mean speed                             | 平均速率        |
+| mechanical energy                      | 机械能         |
+| melting fusion                         | 熔化          |
+| objective                              | 物镜          |
+| optical bench                          | 光具座         |
+| photoelectric effect                   | 光电效应        |
+| rated voltage                          | 额定电压        |
+| reacting force                         | 反作用力        |
+| reference system (frame)               | 参考系         |
+| equilibrium position                   | 平衡位置        |
+| equivalent source theorem              | 等效电源定理      |
