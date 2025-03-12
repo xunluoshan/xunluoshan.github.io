@@ -18,10 +18,10 @@ quantum mechanics
 | crest                                  | 波峰          |
 | -------------------------------------- | ----------- |
 | critical angle                         | 临界角         |
-| critical resistance                    |             |
+| critical resistance                    | 临界电阻       |
 |                                        | 原子物理学       |
-| absolute error                         |             |
-| circular hole diffraction              | 圆孔衍射        |
+| absolute error                         | 绝对误差       |
+| circular hole diffraction              | 圆孔衍射       |
 | coefficient of restitution             | 恢复系数        |
 | current element                        | 电流元         |
 | coherent light                         | 相干光源        |
@@ -29,21 +29,21 @@ quantum mechanics
 | damping                                | 阻尼          |
 | acoustics                              | 声学          |
 | ballistic galvanometer                 | 冲击电流计       |
-| acceleration of gravity                |             |
-| accidental error                       |             |
+| acceleration of gravity                | 重力加速度       |
+| accidental error                       | 偶然误差        |
 | **cyclotron**                          | 回旋加速器       |
 |                                        | 电流密度J       |
 | current strength                       | 电流强度I       |
-| circular motion                        |             |
-| curvilinear motion                     |             |
-| absolute velocity                      |             |
-| average velocity                       |             |
-| coefficient of maximum static friction |             |
+| circular motion                        | 圆周运动       |
+| curvilinear motion                     | 曲线运动       |
+| absolute velocity                      | 绝对速度       |
+| average velocity                       | 平均速度       |
+| coefficient of maximum static friction | 最大静摩擦力        |
 | air track                              | 气垫导轨        |
 | alternating current genarator          | 交流发电机       |
 | altimeter                              | 测高仪         |
 | ammeter                                | 安培计         |
-| acting force                           |             |
+| acting force                           | 作用力         |
 | betatron                               | 电子感应加速器     |
 | accumulator battery                    | 蓄电池         |
 | bound charge                           | 束缚电荷        |
@@ -60,45 +60,45 @@ quantum mechanics
 | **defocusing**                         | 散焦（偏移聚焦）    |
 | derived unit                           | 导出单位        |
 | **dielectric**                         | 电介质         |
-| diffraction                            |             |
-| diffuse reflection                     |             |
+| diffraction                            | 衍射        |
+| diffuse reflection                     | 漫反射        |
 | amplitude                              | 振幅          |
-| angular acceleration                   |             |
+| angular acceleration                   | 角加速度        |
 | angular displacement                   | 角位移         |
 | anion                                  | 负离子         |
 | cation                                 | 正离子         |
 | condenser                              | 冷凝器，发动机里的电容 |
-| conductor                              |             |
-| conservative force field               |             |
+| conductor                              | 导体        |
+| conservative force field               | 保守力场        |
 | dimensional exponent                   | 量纲指数        |
 | convergent lens                        | 会聚透镜        |
 | diopter                                | 屈光度         |
-| discharge                              |             |
+| discharge                              | 放电        |
 | dispersion                             | 色散          |
 | **capillarity**                        | 毛细现象        |
 | buoyancy force                         | 浮力          |
-| capacitance                            |             |
-| capacitor                              |             |
-| cathode-ray tube                       |             |
+| capacitance                            | 电容          |
+| capacitor                              | 电容器         |
+| cathode-ray tube                       | 阴极射线管       |
 | anisotropy                             | 各向异性        |
 | argument                               | 辐角          |
 | antenna                                | 天线          |
 | calorifics                             | 热学          |
 | astigmatoscope                         | 散光镜         |
-| centrifugal force                      |             |
+| centrifugal force                      | 离心力         |
 | centripetal acceleration               | 向心加速度       |
 | coordinate system                      | 坐标系         |
 | corpuscular property                   | 粒子性         |
 | eddy current                           | 涡流          |
 | creepage                               | 漏电          |
-| elasticity                             |             |
-| double slit diffraction                |             |
+| elasticity                             | 弹性          |
+| double slit diffraction                | 双缝衍射        |
 | lightening rod                         | 避雷针         |
 | microdetector                          | 灵敏电流计       |
 | micrometer caliper                     | 螺旋测微器       |
 | piezometer                             | 压强计         |
 | pitch                                  | 音调          |
-| plasma                                 |             |
+| plasma                                 | 等离子体        |
 | liquefaction                           | 液化          |
 | longitudinal wave                      | 纵波          |
 | luminous intensity                     | 发光强度        |
@@ -121,7 +121,7 @@ quantum mechanics
 | pendulum                               | 摆           |
 | **penumbra**                           | 半影          |
 | potentiometer                          | 电势差计        |
-| prism                                  |             |
+| prism                                  | 棱镜          |
 | projectile                             | 抛体          |
 | proton                                 | 质子          |
 | pulley                                 | 滑轮          |
@@ -131,12 +131,12 @@ quantum mechanics
 | mass defect                            | 质量亏损        |
 | object distance                        | 物距          |
 | neutron                                | 中子          |
-| perfect elastic (inelastic) collision  |             |
+| perfect elastic (inelastic) collision  | 完全弹性(非弹性)碰撞    |
 | periscope                              | 潜望镜         |
 | permanent magnet                       | 永磁体         |
 | permittivity                           | 介电常数，电容率    |
 | radius of gyration                     | 回旋半径        |
-| quantization                           |             |
+| quantization                           | 量子化        |
 | mean speed                             | 平均速率        |
 | mechanical energy                      | 机械能         |
 | melting fusion                         | 熔化          |
