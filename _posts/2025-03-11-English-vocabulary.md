@@ -160,6 +160,7 @@ quantum mechanics
 | virtual image（object）                  | 虚像（物）       |
 | ground earth                           | 接地          |
 | erect image                            | 正像          |
+| inverted image                         | 倒像          |
 | electric leakage                       | 漏电          |
 | electric potential energy              | 电势能         |
 | excitation state                       | 激发态         |
@@ -190,7 +191,10 @@ quantum mechanics
 | kinetic energy                         | 动能          |
 | isotope                                | 同位素         |
 | interference fringe                    | 干涉条纹        |
+| interferometer                         | 干涉仪         |
 | isobar                                 | 等压线         |
-|                                        |             |
+| intonation                             | 声调          |
+| isochoric process                      | 等容过程        |
+| irreversible process                   | 不可逆过程       |
 
 
