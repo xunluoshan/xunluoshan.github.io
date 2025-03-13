@@ -81,6 +81,7 @@ quantum mechanics
 | capacitor                              | 电容器         |
 | cathode-ray tube                       | 阴极射线管       |
 | **anisotropy**                         | 各向异性        |
+| isotropy                               | 各向同性        |
 | argument                               | 辐角          |
 | antenna                                | 天线          |
 | calorifics                             | 热学          |
@@ -148,3 +149,48 @@ quantum mechanics
 | reference system (frame)               | 参考系         |
 | equilibrium position                   | 平衡位置        |
 | equivalent source theorem              | 等效电源定理      |
+| work function                          | 逸出功         |
+| wave-particle dualism                  | 波粒二象性       |
+| vortex electric field                  | 涡旋电场        |
+| voltmeter-ammeter method               | 伏安法         |
+| virtual value                          | 有效值         |
+| voltaic cell                           | 伏打电池        |
+| vernier caliper                        | 游标卡尺        |
+| visibility                             | 可见度         |
+| virtual image（object）                  | 虚像（物）       |
+| ground earth                           | 接地          |
+| erect image                            | 正像          |
+| electric leakage                       | 漏电          |
+| electric potential energy              | 电势能         |
+| excitation state                       | 激发态         |
+| eyepiece                               | 目镜          |
+| hadron                                 | 强子          |
+| half life period                       |             |
+| humidity                               | 湿度          |
+| electrolysis                           | 电解          |
+| electrolyte                            | 电解质         |
+| fission                                | 裂变          |
+| fusion                                 | 聚变          |
+| fixed-axis rotation                    | 定轴转动        |
+| film interference                      | 薄膜干涉        |
+| electrification                        | 放电          |
+| incident angle                         | 入射角         |
+| fractal                                | 分形          |
+| electromotive force                    | 电动势         |
+| forced vibration                       | 受迫振动        |
+| infrasonic wave                        | 次声波         |
+| electroscope                           | 验电器         |
+| electrostatic screening                | 静电屏蔽        |
+| instantaneous power                    | 瞬时功率        |
+| insulator                              | 绝缘体         |
+| lepton                                 | 轻子          |
+| baryon                                 | 重子          |
+| lead                                   | 铅；导线        |
+| kinematics                             | 运动学         |
+| kinetic energy                         | 动能          |
+| isotope                                | 同位素         |
+| interference fringe                    | 干涉条纹        |
+| isobar                                 | 等压线         |
+|                                        |             |
+
+
