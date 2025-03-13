@@ -166,7 +166,7 @@ quantum mechanics
 | excitation state                       | 激发态         |
 | eyepiece                               | 目镜          |
 | hadron                                 | 强子          |
-| half life period                       |             |
+| half life period                       | 半衰期         |
 | humidity                               | 湿度          |
 | electrolysis                           | 电解          |
 | electrolyte                            | 电解质         |
