@@ -9,17 +9,19 @@ tags:
   - 杂谈
 
 ---
+四大力学：  
 theoretical mechanics  
 electrodynamics  
 thermodynamics and statistical mechanics  
 quantum mechanics
 
+以下181个词，全部为狗狗手打，欢迎支持qwq
 
 | crest                                  | 波峰          |
 | -------------------------------------- | ----------- |
 | critical angle                         | 临界角         |
 | critical resistance                    | 临界电阻       |
-|                                        | 原子物理学       |
+| atomic physics                         | 原子物理学       |
 | absolute error                         | 绝对误差       |
 | circular hole diffraction              | 圆孔衍射       |
 | coefficient of restitution             | 恢复系数        |
@@ -32,7 +34,7 @@ quantum mechanics
 | acceleration of gravity                | 重力加速度       |
 | accidental error                       | 偶然误差        |
 | **cyclotron**                          | 回旋加速器       |
-|                                        | 电流密度J       |
+| current density                        | 电流密度J       |
 | current strength                       | 电流强度I       |
 | circular motion                        | 圆周运动       |
 | curvilinear motion                     | 曲线运动       |
