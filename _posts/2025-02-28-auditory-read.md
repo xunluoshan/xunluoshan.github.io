@@ -22,15 +22,15 @@ tags:
 
 I. 点击浏览器上方地址栏右侧，会有类似图中的小图标“**朗读此页内容**”
 
-![aud-browser1](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-browser.png)
+![aud-browser1](https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-browser.png)
 
 II. 上方「中间的按钮」单击可以**暂停**和**继续**朗读，右边的「**语音选项**」可以调整<mark>朗读速度</mark>和选择不同的<mark>音色</mark>
 
-![aud-browser2](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-browser2.png)
+![aud-browser2](https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-browser2.png)
 
 III. 向左和向右的箭头可以跳转到朗读**上一段**或者**下一段**
 
-![aud-browser3](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-browser3.png)
+![aud-browser3](https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-browser3.png)
 
 IV. **单击**网页中任意一处文字，可以**跳转到该点**继续往后阅读
 
@@ -51,15 +51,15 @@ II. 打开一篇pdf文档
 
 III. 先点击「**视图**」，再点击「**朗读**」
 
-![image.png](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-pdf.png)
+![image.png](https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-pdf.png)
 
 IV. 点「**激活朗读**」
 
-![aud-pdf2](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-pdf2.png)
+![aud-pdf2](https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-pdf2.png)
 
 V. 需要朗读的时候点「**从当前页开始朗读**」，需要停止的时候点击「**暂停**」即可
 
-![image.png](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-pdf3.png)
+![image.png](https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-pdf3.png)
 
 
 
@@ -70,16 +70,16 @@ V. 需要朗读的时候点「**从当前页开始朗读**」，需要停止的�
 
 - 以笔者本人的华为手机为例，其他手机步骤类似。读者也可以自行上网搜索图文教程或视频教程。
 
-<img src="https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone1.jpg" width="500px">
+<img src="https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone1.jpg" width="500px">
 
 
-<img src="https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone.jpg" width="500px">
+<img src="https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone.jpg" width="500px">
 
 
-<img src="https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone3.jpg" width="500px">
+<img src="https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone3.jpg" width="500px">
 
 
-<img src="https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone4.jpg" width="500px">
+<img src="https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/aud-phone4.jpg" width="500px">
 
 
 📝**NOTE**  
@@ -95,8 +95,4 @@ V. 需要朗读的时候点「**从当前页开始朗读**」，需要停止的�
 1.长按电源键，进入关机/重启页面时，双指长按屏幕3s  
 2.回到**设置**里面的**屏幕朗读**，双击**开关按钮**，再双击**确定**
 {:.warning}
-
-
-
-
 
