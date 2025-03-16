@@ -15,7 +15,7 @@ tags:
 （仅供娱乐，并无很多科学依据，且每个人和每个人是很不一样的）
 
 #### 图片
-![asd-adhd-meme](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/asd-adhd-meme.png)
+![asd-adhd-meme](https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/asd-adhd-meme.png)
 
 
 
