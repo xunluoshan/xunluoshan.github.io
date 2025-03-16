@@ -21,7 +21,7 @@ tags:
 
 ##### 学电动力学
 
-![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/elec-dynamic-exam.png)
+![](https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/elec-dynamic-exam.png)
 
 |                 | 看书  | 做题 |
 | --------------- | ----- | ---- |
