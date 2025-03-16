@@ -17,7 +17,7 @@ tags:
 
 对评估学龄儿童学习障碍而言，一个**更好的（尽管远非完美）方法是“干预后反应”**（Response to Intervention, RTI）。**这种方法指**，教师会对那些存在阅读困难的学生进行早期干预，并监测他们对干预的反应。如果学生像一篇研究论文中提出的“未能对干预做出反应”，则应该建议对方接受特殊教育服务。
 
-![dyslexia-new-model](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/dlx-new-model.png)
+![dyslexia-new-model](https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/dlx-new-model.png)
 
 RTI包含四个要素：覆盖全校的多层级指导和行为体系，筛查，进程控制，以及基于数据的指导决策或多层级干预。
 
@@ -25,7 +25,7 @@ RTI包含四个要素：覆盖全校的多层级指导和行为体系，筛查�
 
 **美国有大约 20% 的人口患有阅读障碍**，这是一种导致患者**难以识别和拼写书面文字的神经疾病**。即使在交谈时说话正常，患有阅读障碍的人在朗读时可能会遗漏诸如“and”和“the”这些短词，或者把“dog”读成“god”。这种疾病会阻碍个体处理书面信息的能力，并对他们的职业生涯和日常生活产生负面影响。然而，**只有一小部分人能得到阅读障碍的专业诊断**，或者得到能帮助他们克服阅读困难的专业帮助。
 
-![阅读障碍与大脑](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/dyslexia-and-brain.png)
+![阅读障碍与大脑](https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/dyslexia-and-brain.png)
 
 - 阅读障碍与智商无关
 - 阅读障碍是个spectrum，位于谱系不同位置的人都需要得到帮助
@@ -73,12 +73,12 @@ RTI包含四个要素：覆盖全校的多层级指导和行为体系，筛查�
 
 1.《请爱我本来的样子》
 
-![请爱我本来的样子](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/dyslexia-book-1.png)
+![请爱我本来的样子](https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/dyslexia-book-1.png)
 
 
 2.《走出迷宫 认识发展性阅读障碍》
 
-![走出迷宫 认识发展性阅读障碍](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/dyslexia-book-2.png)
+![走出迷宫 认识发展性阅读障碍](https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/dyslexia-book-2.png)
 
 [对本书的归纳和理解（走出迷宫 认识发展性阅读障碍）书评](https://book.douban.com/review/15433075/)
 
@@ -86,4 +86,4 @@ RTI包含四个要素：覆盖全校的多层级指导和行为体系，筛查�
 
 3.《聪明的笨小孩》
 
-![聪明的笨小孩](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/dyslexia-book-3.png)
+![聪明的笨小孩](https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/dyslexia-book-3.png)
