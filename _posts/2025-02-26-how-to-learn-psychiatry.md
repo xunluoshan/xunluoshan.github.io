@@ -75,11 +75,11 @@ tags:
 
 这里主要推荐**DSM-V**，即《精神障碍诊断与统计手册》第五版（Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition），是由美国精神病学会（American Psychiatric Association, APA）发布的一部权威性指南，用于诊断和分类精神障碍。
 
-![DSM-V](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/dsm5.png)
+![DSM-V](https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/dsm5.png)
 
 国内主要是科研时会用到这一套诊断系统，医院系统里还是ICD-10（虽然早就出ICD-11了）。
 
-![ICD-11](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/icd11.jpg)
+![ICD-11](https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/icd11.jpg)
 
 **ICD-11**可以直接在官网上看到：[ICD-11 for Mortality and Morbidity Statistics](https://icd.who.int/browse/2025-01/mms/en#334423054)
 
@@ -90,7 +90,7 @@ DSM-V好在它读起来并不生涩，虽然是诊断标准，但在某一个条
 
 医学生们在本科会学习《精神病学》这门课程，使用的教材是人民卫生出版社的那套“蓝色生死恋”系列：
 
-![精神病学第九版](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/people-health-psychiatry.jpg)
+![精神病学第九版](https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/people-health-psychiatry.jpg)
 （现在出到第九版了，如果喜欢刷题的话，也有对应的习题集，同时也可以使用一些医学刷题软件方便在手机上刷题巩固知识点，虽然有些知识早已过时）
 
  大多数人会与我讲，他们看教材的时候感到吃力，因此我只是将教材列在这里，供有需要的读者查找。
@@ -109,13 +109,13 @@ DSM-V好在它读起来并不生涩，虽然是诊断标准，但在某一个条
 虽然钟杰老师的视频稍微有些年头（还在用DSM-IV），但也比b站上被盘出包浆的钱铭怡教授的网课要好些，而且时长较短。
 
 [【变态心理学（北大课堂版）】心境障碍（上）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV168411U7y7/?spm_id_from=333.337.search-card.all.click&vd_source=25ceebc83776887bec7f294c67ff630f)
-![变态心理学钟杰](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/abnormal-psy-video.png)
+![变态心理学钟杰](https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/abnormal-psy-video.png)
 
 这个Osmosis合集是很好的科普，很推荐观看，每集都只有几分钟，可以一次看完。
 （也有一些视频散落在合集之外，点进up主页可以看到）
 
 [【Osmosis合集】精神与行为障碍（更至12P｜中英）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1nZ4y1N7Bd/?spm_id_from=333.337.search-card.all.click&vd_source=25ceebc83776887bec7f294c67ff630f)
-![Osmosis_精神与行为障碍](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/osmosis-video.png)
+![Osmosis_精神与行为障碍](https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/osmosis-video.png)
 
 ##### 3. 理论联系实践
 
@@ -135,7 +135,7 @@ DSM-V好在它读起来并不生涩，虽然是诊断标准，但在某一个条
 
 首先是研究生教材：《沈渔邨精神病学》（最开始是沈渔邨院士主编的，所以叫这个名字）
 
-![沈渔邨精神病学](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/shenyucun.jpg)
+![沈渔邨精神病学](https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/shenyucun.jpg)
 
 这本书特别厚，大概是属于工具书类别的。
 
@@ -143,7 +143,7 @@ DSM-V好在它读起来并不生涩，虽然是诊断标准，但在某一个条
 
 **总之，是不可多得的好书！！！**
 
-![牛津精神病学](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/oxford-psychiatry.jpg)
+![牛津精神病学](https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/oxford-psychiatry.jpg)
 
 
 
