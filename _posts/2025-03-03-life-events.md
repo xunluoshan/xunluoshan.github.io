@@ -25,9 +25,9 @@ tags:
 2. 打游戏（minecraft）  
 <img src="https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/mc_end.jpg" width="700px">  
 
-3. 偶尔学点精神药理学
-![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/ari-akathisia1.png)
-![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/ari-akathisia2.png)
+3. 偶尔学点精神药理学  
+![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/ari-akathisia1.png)  
+![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/ari-akathisia2.png)  
 
 ### 毕业设计
 
