@@ -10,10 +10,21 @@ tags:
   - 物理
 ---
 
-> 明天回学校，要开始战斗！！
+> 
 
 ### 落山最近在做的事儿：
 
+#### 日常生活
+
+1. 跑步
+
+5.11日（第一天复健）  
+![run-day1](https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/run-day1.jpg)  
+5.12日(第二天)  
+![run-day2](https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/run-day2.jpg)  
+
+2. 打游戏（minecraft）  
+![mc_end](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/mc_end.jpg)
 
 #### 毕业设计
 
@@ -33,14 +44,13 @@ tags:
 
 还没开始写论文，也没开始做。  ——5.7
 
-#### 写博客
+#### 学业辅导（教gzy量子力学）
 
-懒得写……
+已教了两次，发现gzy喜欢玩手机。不过数学基础挺好，还是蛮有天分的。
 
 #### 期末考试（理论力学）
 
-不上课了，自己看网课和教材学理论力学。
-- 一个as学弟给我推荐了西工大的张娟的理论力学教材（虽然是英文版的）
+在翻我以前的笔记，看书上例题。目前进度1.5 。
 
 初步方案：
 1. 看允文君视频
