@@ -19,12 +19,12 @@ tags:
 1. 跑步
 
 5.11日（第一天复健）  
-![run-day1](https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/run-day1.jpg)  
+<img src="https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/run-day1.jpg" width="500px">  
 5.12日(第二天)  
-![run-day2](https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/run-day2.jpg)  
+<img src="https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/run-day2.jpg" width="500px">    
 
 2. 打游戏（minecraft）  
-![mc_end](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/mc_end.jpg)
+<img src="https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/mc_end.jpg" width="500px">  
 
 ### 毕业设计
 
