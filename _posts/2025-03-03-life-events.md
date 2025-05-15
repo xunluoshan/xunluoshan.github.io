@@ -20,7 +20,10 @@ tags:
 5月11日（第一天复健）  
 <img src="https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/run-day1.jpg" width="500px">  
 5月12日(第二天)  
-<img src="https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/run-day2.jpg" width="500px">    
+<img src="https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/run-day2.jpg" width="500px">      
+5月14日也跑了2km多  
+
+
 
 2. 打游戏（minecraft）  
 <img src="https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/mc_end.jpg" width="700px">  
@@ -53,7 +56,7 @@ tags:
 
 ### 期末考试（理论力学）
 
-在翻我以前的笔记，看书上例题。目前进度2.2（第一章题目都做完了），一共五章。
+在翻我以前的笔记，看书上例题。目前进度3.2（第一、二章题目都做完了），一共五章。
 
 初步方案：
 1. 看允文君视频
