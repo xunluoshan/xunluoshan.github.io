@@ -16,21 +16,10 @@ tags:
 
 ### 日常生活
 
-1. 跑步  
-5月11日（第一天复健）  
-<img src="https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/run-day1.jpg" width="500px">  
-5月12日(第二天)  
-<img src="https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/run-day2.jpg" width="500px">      
-5月14日也跑了2km多  
-
-
-
-2. 打游戏（minecraft）  
-<img src="https://gcore.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/mc_end.jpg" width="700px">  
-
-3. 偶尔学点精神药理学  
-![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/ari-akathisia1.png)  
-![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/ari-akathisia2.png)  
+1. 粘着乐乐侠
+2. 日常dbt练习
+3. 量子力学备课
+4. 偶尔读一些心理学，保持熟练度
 
 ### 毕业设计
 
@@ -42,22 +31,23 @@ tags:
 看了任务书，发现有很多不明白的地方  ——3.4  
 终于写完了！！  ——3.8 15：30  
 
-🌎**中期检查  4月10日左右**
+🌎**中期检查  4月10日左右** ✅
 
 胡乱编凑了一份   ——4.26
 
-🌎**答辩 6月10日左右**
+🌎**答辩 6月14日左右**
 
-还没开始写论文，也没开始做。  ——5.7
+正在等待答辩安排，大概就是胡乱==做个ppt==，胡乱讲一通。  ————6.10
 
-### 学业辅导（教gzy量子力学）
+### 学业辅导（教别人量子力学）
 
-已教了两次，发现gzy喜欢玩手机。不过数学基础挺好，还是蛮有天分的。
+首先，我需要做到不玩游戏，专注到这件事情上。其次，注意与他人的沟通协商，比如约时间地点，和克服阻碍对方学习的事物。
 
-### 期末考试（理论力学）
+###  和朋友的安排（约定）
 
-在翻我以前的笔记，看书上例题。目前进度3.2（第一、二章题目都做完了），一共五章。
+如芍芍要去我家撸狗，小细胞要和我一块儿去北六。  
+之后有和妈妈的约定————手术  
+还有和ll去支教  
+还有思考和xg的关系（这方面要努力，因为我不说，别人不会知道。要有深入的思考，并且告诉他）  
+还有和al老师说的，想加她们课题组  
 
-初步方案：
-1. 看允文君视频
-2. 做作业题
