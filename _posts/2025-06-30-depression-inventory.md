@@ -138,9 +138,9 @@ Montgomery-Asberg Depression Rating Scale (MADRS)是由Stuart Montgomery和Marie
 
 ![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/HAMD_4.png)
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/AGEt1TOW1fnXEGwsTpt32j1wWxCxwnfP1qINNlfDE9U9XiaCNZHlDfnGNJic5lWMrTXpw35BbGBiarzGDcATkFCTw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/HAMD_5.png)
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/AGEt1TOW1fnXEGwsTpt32j1wWxCxwnfP7Or0oIYqwR2NcBEWNoK2qg6gcic4TN9agYIAQcAPoOw2OUDEzM7XUgA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/HAMD_6.png)
 
 ![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/AGEt1TOW1fnXEGwsTpt32j1wWxCxwnfPMM7RU7LoUTLrxiacKbUibVhKL56JNbmFaGFnryNylz71ibKnP1qtr979w/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
