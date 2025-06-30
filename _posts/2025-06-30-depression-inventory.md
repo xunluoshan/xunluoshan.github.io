@@ -14,8 +14,7 @@ tags:
 
 Montgomery-Asberg Depression Rating Scale (MADRS)是由Stuart Montgomery和Marie Asberg在1979年开发的。它是由评估精神病治疗的阿斯伯格的综合精神病理评定量表发展而来的。由于MADRS评分与抑郁症的症状存在比汉密尔顿抑郁量表更好的相关性和敏感性，临床上也常常使用MADRS来评估抗抑郁药物的疗效和抑郁症患者的康复情况。
 
-![Image](https://mmbiz.qpic.cn/mmbiz_png/euia1xibddlz3PpEfz626Qq0WfhYVCVOTKtoFlKBh6lxNgDjh0aUDIZkhicKx3ZuEnLxozibsBlTCLkIHDY1qaIr1g/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
-
+![MADRS](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/MADRS1.png)
 
 一次MADRS的评估一般需要20到60分钟，需要在一次面谈中完成10项评定，他们分别是：可观察到的悲伤、自我报道的悲伤、内心的紧张感、睡眠减少、食欲减少、集中注意力的困难程度、疲乏程度、感受不能、悲观思想、自杀观念。以下是这10项具体打分细则：
 
