@@ -7,7 +7,7 @@ catalog: true
 header-style: text
 tags:
   - depression
-  - psychiatry
+  - 精神病学
 ---
 
 ### 蒙哥马利‐阿斯伯格抑郁评估量表（MADRS）
@@ -142,13 +142,13 @@ Montgomery-Asberg Depression Rating Scale (MADRS)是由Stuart Montgomery和Marie
 
 ![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/HAMD_6.png)
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/AGEt1TOW1fnXEGwsTpt32j1wWxCxwnfPMM7RU7LoUTLrxiacKbUibVhKL56JNbmFaGFnryNylz71ibKnP1qtr979w/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/HAMD_7.png)
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/AGEt1TOW1fnXEGwsTpt32j1wWxCxwnfPf7ficIpiaT0k5887DmfR1y6FOnOGTTibzErR8ic4zVU2RhiaITlmpiambJFA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/HAMD_8.png)
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/AGEt1TOW1fnXEGwsTpt32j1wWxCxwnfP1iat7MiaFdI82LZufuqgdeQh5AA9eKNIYGwPCMwLnMs0l6lB897blh8A/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/HAMD_9.png)
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/AGEt1TOW1fnXEGwsTpt32j1wWxCxwnfP3hCL8qMZF91BjIr5iaibS8FOkiaV0QDFq4DibHo8DXwe0GN8TicYgQicN5SA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/HAMD_10.png)
 
   
 
@@ -211,7 +211,7 @@ HAMD量表是临床评定抑郁状态时常用的量表。本量表共有17项�
 4. 近年来，发展了一些项目数较少的版本。目的是更好地反映抑郁症的核心症状，使其更敏感地反映干预效果。其中，应用较广的是6项版本（HAMD-6），包括抑郁情绪、有罪感、工作和兴趣、阻滞、精神性焦虑和全身症状6项。
 
   
-HAMD在抑郁症评定量表中作为最标准之一。如果需要发展新的抑郁量表，住住以HAMD作为平行效度检验工具。
+HAMD在抑郁症评定量表中作为最标准之一。如果需要发展新的抑郁量表，往往以HAMD作为平行效度检验工具。
 
 
 |                           症状描述                           | 评分标准                                                  | 得分  |
