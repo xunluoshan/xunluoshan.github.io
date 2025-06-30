@@ -130,9 +130,9 @@ Montgomery-Asberg Depression Rating Scale (MADRS)是由Stuart Montgomery和Marie
 
 ### 汉密尔顿抑郁量表(Hamilton Depression Scale，HAMD)
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/AGEt1TOW1fnXEGwsTpt32j1wWxCxwnfPDSO01ylD5hfRtUknzib4eUFvxe3Q6C1WiaylZgtY6DCwUUnJPYrn9dOQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/HAMD_1.png)
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/AGEt1TOW1fnXEGwsTpt32j1wWxCxwnfP1ycP0ibZCO3xNyJjeql2nH00eXtVD0st0nVmdDuia3gBX5iaYSmePwzzQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/HAMD_2.png)
 
 ![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/AGEt1TOW1fnXEGwsTpt32j1wWxCxwnfPsOs1UjV9e3hSqVQEutKU3icSD7jnakSPKRXBAy3oWDMcKA3djWZU2Bw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
