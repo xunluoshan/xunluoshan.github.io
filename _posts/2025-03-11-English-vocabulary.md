@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      "英语单词"
+title:      "物理学英语单词"
 subtitle:   ""
 author:     "Luoshan"
 catalog: true
 header-style: text
 tags:
   - 杂谈
-
+  - 物理
 ---
 四大力学：  
 theoretical mechanics  
