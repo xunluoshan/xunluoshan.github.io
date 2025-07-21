@@ -7,7 +7,8 @@ catalog: true
 header-style: text
 tags:
   - Special Relativity
-  - Physics
+  - 物理
+  - 学习路径
 ---
 
 ### 一、入门阶段
