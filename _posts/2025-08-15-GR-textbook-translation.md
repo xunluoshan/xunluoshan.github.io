@@ -1,7 +1,15 @@
-
-
-
-
+---
+layout:     post
+title:      "广相教材翻译(突击版)"
+subtitle:   "[translation]The textbook of General relativity"
+author:     "Luoshan"
+catalog: true
+header-style: text
+tags:
+  - Special Relativity
+  - 物理
+---
+>  周一我导师让我汇报
 
 ### 1.1  狭义相对论的基本原理
 
