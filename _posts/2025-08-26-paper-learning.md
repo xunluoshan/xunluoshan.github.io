@@ -81,7 +81,7 @@ Bush‐Francis紧张症评定量表(Bush‐Francis  Catatonia Rating Scale,BFCRS
 精神科对[紧张症](https://en.wikipedia.org/wiki/Catatonia)的研究曾“走弯路”，<u>误将紧张症视为精神分裂症的一种亚型或是仅见于精神分裂症及心境障碍的综合征</u>。例如DSM‐IV中涉及紧张症的诊断条目为“**精神分裂症，紧张症型**”和“**心境障碍，注明紧张症表现**”，导致非精神科医生对紧张症的了解及关注甚少。
 
 近年来，精神科“重新发现”紧张症，推动DSM及ICD诊断分类的修订。  
-[条目-继发性紧张综合征-6E69-定义与概况](https://www.familydoctor.cn/icd11/mental/secondary-catatonia-syndrome.html)  
+[ICD-11 中的木僵状态 | BMC 精神病学 | 全文 --- Catatonia in ICD-11 | BMC Psychiatry | Full Text](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-025-06857-6)   
 如在ICD‐11中，[紧张症](https://en.wikipedia.org/wiki/Catatonia)已成为和[精神分裂症或其他原发性精神病性障碍](https://en.wikipedia.org/wiki/Schizophrenia)、[心境障碍](https://en.wikipedia.org/wiki/Mood_disorder)等并列的独立诊断类目；而内科问题等所致的[继发性紧张综合征](https://www.familydoctor.cn/icd11/mental/secondary-catatonia-syndrome.html)，则归属于“与分类于他处的障碍或疾病相关的继发性精神或行为综合征”类目下。在DSM‐5中，紧张症分为**与其他精神障碍有关的紧张症**、**由于其他躯体疾病所致的紧张症**、**未特定的紧张症**三类。以上诊断分类的变化，体现<u>紧张症已被视为一组独立的综合征</u>。
 
 梅奥诊所对20年共95例<mark>紧张症患者</mark>进行**病历回顾分析**，心境障碍、精神病性障碍、非精神科因素所占比例分别为55.8%、23.2%和21.0% <sup>[7]</sup>。其他研究者则发现，躯体疾病因素可预测紧张症的发生；***在校正躯体疾病、认知因素后，精神科诊断与紧张症的发生不具有显著相关性***。
