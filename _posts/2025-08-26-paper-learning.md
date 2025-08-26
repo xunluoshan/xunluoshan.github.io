@@ -109,6 +109,8 @@ Lesko等<sup>[19]</sup>报道1例双相障碍缓解期老年患者泌尿系统�
 
 本文案例中，患者谵妄前期伴有精神运动性兴奋期间曾使用右美托咪定镇静、未使用抗精神病药或苯二氮䓬类药，<mark>后期出现紧张症表现后，我们选择劳拉西泮治疗</mark>，用药后患者紧张症改善，同时劳拉西泮有效**改善心率增快、血压升高、呼吸频率增加、胃肠道蠕动紊乱等交感兴奋症状**，最终有助于患者心力衰竭、心房颤动、腹泻等全身情况的改善，间接改善谵妄，待全身情况趋稳后<mark>较快减停劳拉西泮，并未导致谵妄加重</mark>。
 
+<details>
+<summary>参考文献</summary>
 [6] American Psychiatric Association. Diagnostic and statistical manual of mental disorders (DSM‐5) [M]. 5th ed. Washington DC: American Psychiatric Association, 2013.   
 [7] Smith JH, Smith VD, Philbrick KL, et al. Catatonic disorder due to a general medical or psychiatric condition[J]. J Neuropsychiatry Clin Neurosci, 2012, 24(2): 198‐207. DOI: 10.1176/appi.neuropsych.11060120.  
 [10] Tachibana M, Ishizuka K, Inada T. Catatonia and delirium: similarity and overlap of acute brain dysfunction[J]. Front Psychiatry, 2022, 13: 876727. DOI: 10.3389/fpsyt. 2022.876727.   
@@ -118,7 +120,7 @@ Lesko等<sup>[19]</sup>报道1例双相障碍缓解期老年患者泌尿系统�
 [17] Walther S, Stegmayer K, Wilson JE, et al. Structure and neural mechanisms of catatonia[J]. Lancet Psychiatry, 2019, 6(7): 610‐619. DOI: 10.1016/S2215‐0366(18) 30474‐7.   
 [18] Northoff G, Steinke R, Czcervenka C, et al. Decreased density of GABA‐A receptors in the left sensorimotor cortex in akinetic catatonia: investigation of in vivo benzodiazepine receptor binding[J]. J Neurol Neurosurg Psychiatry, 1999, 67(4): 445‐450. DOI: 10.1136/ jnnp.67.4.445.   
 [19] Lesko A, Kalafat N, Enoh K, et al. The importance of diagnosing concomitant delirium and catatonia: a case report[J]. Cureus, 2022, 14(1): e21662. DOI: 10.7759/ cureus.21662.  
-
+</details>
 
 ### 药物超敏反应一例
 `王丹，王茜. 抗精神病药致药物超敏反应综合征复发1例[J]. 中华精神科杂志, 2024, 57(12):844-847.DOI:10.3760/cma.j.cn113661-20240122-00036.`
@@ -168,6 +170,8 @@ DIHS又称DRESS，是一种由**有限特定药引起、累及多器官系统、
 
 初始药物和新的致敏药物之间相似的化学结构和作用机制可以解释引发复发性超敏反应的原因，但有DRESS综合征病史的患者***未来仍有可能存在与既往过敏药物化学结构不相关的药物超敏反应复发。***
 
+<details>
+<summary>参考文献</summary>
 [2] Kardaun SH, Sidoroff A, Valeyrie‐Allanore L, et al. Variability in the clinical pattern of cutaneous side‐effects of drugs with systemic symptoms: does a DRESS syndrome really exist? [J]. Br J Dermatol, 2007, 156(3): 609‐611. DOI: 10.1111/j.1365‐2133.2006.07704.x.   
 [3] Cacoub P, Musette P, Descamps V, et al. The DRESS syndrome: a literature review[J]. Am J Med, 2011, 124(7): 588‐597. DOI: 10.1016/j.amjmed.2011.01.017.   
 [4] Noguchi Y, Takaoka M, Hayashi T, et al. Antiepileptic combination therapy with Stevens‐Johnson syndrome and toxic epidermal necrolysis: Analysis of a Japanese pharmacovigilance database[J]. Epilepsia, 2020, 61(9): 1979‐1989. DOI: 10.1111/epi.16626.   
@@ -179,3 +183,4 @@ DIHS又称DRESS，是一种由**有限特定药引起、累及多器官系统、
 [12] Food and Drug Administration. Drug safety and availability[EB/OL]. (2016‐5‐10) [2024‐2‐28]. http://FDA Drug Safety Communication: FDA warns about rare but serious skin reactions with mental health drug olanzapine (Zyprexa, Zyprexa Zydis, Zyprexa Relprevv, and Symbyax) |FDA.   
 [13] Sharma AN, Shwe S, Ravi V, et al. Characterizing DRESS syndrome recurrence: a systematic review[J]. Arch Dermatol Res, 2022, 314(8): 721‐728. DOI: 10.1007/ s00403‐021‐02274‐3.   
 [14] Husain Z, Reddy BY, Schwartz RA. DRESS syndrome: part II. management and therapeutics[J]. J Am Acad Dermatol,  2013, 68(5): 709. e1‐9; quiz 718‐720. DOI: 10.1016/j. jaad.2013.01.032.  
+</details>
