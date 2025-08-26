@@ -152,20 +152,30 @@ DRESS是具有特异征候的重型药疹,有别于一般药疹——使用致�
 
 DIHS又称DRESS，是一种由**有限特定药引起、累及多器官系统、威胁生命的重症药疹**，死亡率达10%。表现为<u>发热、皮肤药疹、淋巴结病变、脏器受累和嗜酸粒细胞升高</u>。DRESS的发病机制尚不明确，可能与遗传易感性、免疫介导、病毒再激活，如人疱疹病毒6型(human herpes virus 6，HHV‐6)、巨细胞病毒、EB病毒等感染有关。所以发病率取决于药物的类型和患者的免疫状态。DRESS是一种<mark>迟发型超敏反应</mark>，常发生在药物暴露后几天到几周，平均3周。典型病例表现为***双峰性：第1次高峰症状与药物过敏相关，而第2次高峰症状则与HHV‐6等再激活密切相关。***
 
-参考欧洲药物不良反应登记处(RegiSCAR)诊断DRESS综合征评分系统[2]，本例患者评分5分，包括嗜酸性细胞≥10%(1分)、淋巴结增大(1分)、皮疹>50%体表面积(1分)、脏器累计≥2个(2分)，最终归为“很可能”的DRESS病例。虽然尚不清楚本例患者DRESS综合征具体是由哪个抗精神病药诱导，但重要的是患者<u>在暴露多种抗精神药物后出现DRESS，皮疹消退后出现再燃，与病毒再度激活，激素停药过早有关，这也与DRESS的双峰性临床特征相符</u>。对DRESS认识的提高，避免误认为本病例第2次过敏复燃是后续加用的碳酸锂所致，为后续患者继续碳酸锂治疗提供了支持依据。
+参考欧洲药物不良反应登记处(RegiSCAR)诊断DRESS综合征评分系统<sup>[2]</sup>，本例患者评分5分，包括嗜酸性细胞≥10%(1分)、淋巴结增大(1分)、皮疹>50%体表面积(1分)、脏器累计≥2个(2分)，最终归为“很可能”的DRESS病例。虽然尚不清楚本例患者DRESS综合征具体是由哪个抗精神病药诱导，但重要的是患者<u>在暴露多种抗精神药物后出现DRESS，皮疹消退后出现再燃，与病毒再度激活，激素停药过早有关，这也与DRESS的双峰性临床特征相符</u>。对DRESS认识的提高，避免误认为本病例第2次过敏复燃是后续加用的碳酸锂所致，为后续患者继续碳酸锂治疗提供了支持依据。
 
-本例患者在首次住院前期使用了包括齐拉西酮、碳酸锂、喹硫平、奥氮平在内的多种精神科药物。<u>多种药物的联合应用对本例DRESS的发生发展可能也起到了催化作用</u>。Cacoub等[3]研究发现，<mark>DRESS综合征的潜伏期较长，平均3.9周</mark>。本例患者在使用精神科药物第9天出现症状，可疑与多种药物的联合使用加速了症状的进展有关。另有研究发现，相较于单一使用抗癫痫药物，2种抗癫痫药物的联合使用增加了Stevens‐Johnson综合征和中毒性表皮坏死松解症发生的风险[4]。因此，**避免无必要的药物联合治疗对规避重症药疹的发生是十分必要的。**
+本例患者在首次住院前期使用了包括齐拉西酮、碳酸锂、喹硫平、奥氮平在内的多种精神科药物。<u>多种药物的联合应用对本例DRESS的发生发展可能也起到了催化作用</u>。Cacoub等<sup>[3]</sup>研究发现，<mark>DRESS综合征的潜伏期较长，平均3.9周</mark>。本例患者在使用精神科药物第9天出现症状，可疑与多种药物的联合使用加速了症状的进展有关。另有研究发现，相较于单一使用抗癫痫药物，2种抗癫痫药物的联合使用增加了Stevens‐Johnson综合征和中毒性表皮坏死松解症发生的风险<sup>[4]</sup>。因此，**避免无必要的药物联合治疗对规避重症药疹的发生是十分必要的。**
 
 除<span style="color:green">药物代谢</span>、<span style="color:green">药物相互作用</span>、<span style="color:green">疱疹病毒再激活</span>等作用外，人类白细胞抗原(human leukocyte antigen, <span style="color:green">HLA)不同等位基因的表达</span>与DRESS易感性之间也存在关联。
 
 >  如美国食品药品监督管理局(Food and Drug Administration, FDA)在药品说明书中就包含了对<mark>亚洲患者卡马西平治疗前</mark>进行`HLA‐A*15∶02`**基因检测**以避免Stevens‐Johnson综合征和中毒性表皮坏死松解症发生风险的建议。
 
-最常导致DRESS的常见药物为<span style="color:violet">芳香族抗惊厥药(苯巴比妥、卡马西平、苯妥因)、拉莫三嗪、磺胺类药物、米诺环素、万古霉素、特比萘芬、别嘌呤醇、阿巴卡韦、磷酸可待因、碘造影剂、柳氮磺胺吡啶、解热镇痛药等</span>。抗癫痫药物作为双相障碍治疗基础药物，目前在精神科临床中被广泛应用。研究发现，<u>芳香族抗癫痫药物占DRESS综合征所有诱发药物的35%，以卡马西平最常见，其次是苯妥英钠和拉莫三嗪</u>[7]。
+最常导致DRESS的常见药物为<span style="color:violet">芳香族抗惊厥药(苯巴比妥、卡马西平、苯妥因)、拉莫三嗪、磺胺类药物、米诺环素、万古霉素、特比萘芬、别嘌呤醇、阿巴卡韦、磷酸可待因、碘造影剂、柳氮磺胺吡啶、解热镇痛药等</span>。抗癫痫药物作为双相障碍治疗基础药物，目前在精神科临床中被广泛应用。研究发现，<u>芳香族抗癫痫药物占DRESS综合征所有诱发药物的35%，以卡马西平最常见，其次是苯妥英钠和拉莫三嗪</u><sup>[7]</sup>。
 
-许多抗精神病药也有被报道和DRESS有关，如<mark>喹硫平[8]、阿立哌唑[9]、氯氮平、奥氮平及齐拉西酮等</mark>。2021年，1项系统综述研究发现24例氯氮平相关DRESS病例[10]。FDA不良事件报告系统数据库分别在2014年及2016年发布了6例齐拉西酮[11]和23例奥氮平[12]相关的DRESS综合征病例报告。Taleb等[9]还报告了1例精神分裂症患者服用阿立哌唑5年后停药，病情复发后再次服用阿立哌唑出现DRESS综合征，考虑为多种疱疹病毒感染和药物之间特异性的免疫反应。
+许多抗精神病药也有被报道和DRESS有关，如<mark>喹硫平<sup>[8]</sup>、阿立哌唑<sup>[9]</sup>、氯氮平、奥氮平及齐拉西酮等</mark>。2021年，1项系统综述研究发现24例氯氮平相关DRESS病例<sup>[10]</sup>。FDA不良事件报告系统数据库分别在2014年及2016年发布了6例齐拉西酮<sup>[11]</sup>和23例奥氮平<sup>[12]</sup>相关的DRESS综合征病例报告。Taleb等<sup>[9]</sup>还报告了1例精神分裂症患者服用阿立哌唑5年后停药，病情复发后再次服用阿立哌唑出现DRESS综合征，考虑为多种疱疹病毒感染和药物之间特异性的免疫反应。
 
-**DRESS综合征复发定义为首次出现的DRESS综合征症状在治疗完成或临床明显改善（即皮疹消退、血液学或实体器官实验室值改善）后的任何时间出现的第2次发作**[13]。<u>复发的常见原因为过早减量类固醇药物，继续暴露于原来的药物，或使用新的药物</u>。出现DRESS综合征后应<span style="color:brown">维持类固醇激素治疗</span>，如泼尼松(每天0.5~1.0mg/kg)或其等效药物，直到临床改善或实验室指标正常，<span style="color:brown">随后至少在8~12周内缓慢减少剂量对预防复发</span>是十分必要的。本病例过早的停用类固醇治疗导致复发，第2次复发后临床症状较首次发作轻，未见明显血象异常及脏器受累，皮疹持续时间较短。但尽管如此，也有研究认为DRESS综合征的复发往往预示着不良预后，单次发作的病死率为10%，而复发病例的病死率高达29%[14]。
+**DRESS综合征复发定义为首次出现的DRESS综合征症状在治疗完成或临床明显改善（即皮疹消退、血液学或实体器官实验室值改善）后的任何时间出现的第2次发作**<sup>[13]</sup>。<u>复发的常见原因为过早减量类固醇药物，继续暴露于原来的药物，或使用新的药物</u>。出现DRESS综合征后应<span style="color:brown">维持类固醇激素治疗</span>，如泼尼松(每天0.5~1.0mg/kg)或其等效药物，直到临床改善或实验室指标正常，<span style="color:brown">随后至少在8~12周内缓慢减少剂量对预防复发</span>是十分必要的。本病例过早的停用类固醇治疗导致复发，第2次复发后临床症状较首次发作轻，未见明显血象异常及脏器受累，皮疹持续时间较短。但尽管如此，也有研究认为DRESS综合征的复发往往预示着不良预后，单次发作的病死率为10%，而复发病例的病死率高达29%<sup>[14]</sup>。
 
 初始药物和新的致敏药物之间相似的化学结构和作用机制可以解释引发复发性超敏反应的原因，但有DRESS综合征病史的患者***未来仍有可能存在与既往过敏药物化学结构不相关的药物超敏反应复发。***
 
-
+[2] Kardaun SH, Sidoroff A, Valeyrie‐Allanore L, et al. Variability in the clinical pattern of cutaneous side‐effects of drugs with systemic symptoms: does a DRESS syndrome really exist? [J]. Br J Dermatol, 2007, 156(3): 609‐611. DOI: 10.1111/j.1365‐2133.2006.07704.x.   
+[3] Cacoub P, Musette P, Descamps V, et al. The DRESS syndrome: a literature review[J]. Am J Med, 2011, 124(7): 588‐597. DOI: 10.1016/j.amjmed.2011.01.017.   
+[4] Noguchi Y, Takaoka M, Hayashi T, et al. Antiepileptic combination therapy with Stevens‐Johnson syndrome and toxic epidermal necrolysis: Analysis of a Japanese pharmacovigilance database[J]. Epilepsia, 2020, 61(9): 1979‐1989. DOI: 10.1111/epi.16626.   
+[7] Kardaun SH, Sekula P, Valeyrie‐Allanore L, et al. Drug reaction with eosinophilia and systemic symptoms (DRESS): an original multisystem adverse drug reaction. Results from the prospective RegiSCAR study[J]. Br J Dermatol, 2013, 169(5): 1071‐1080. DOI: 10.1111/ bjd.12501.  
+[8] Torroba Sanz B, Mendez Martínez E, Cacho Asenjo E, et al. Permanent renal sequelae secondary to drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome induced by quetiapine[J]. Eur J Hosp Pharm, 2021, 28(5): 285‐288. DOI: 10.1136/ ejhpharm‐2019‐002149.  
+[9] Taleb S, Zgueb Y, Ouali U, et al. Drug reaction with eosinophilia and systemic symptoms syndrome related to aripiprazole therapy[J]. J Clin Psychopharmacol, 2019, 39(6):691‐693. DOI: 10.1097/JCP.0000000000001138.  
+[10] de Filippis R, Soldevila‐Matías P, Guinart D, et al. Unravelling cases of clozapine‐related drug reaction with eosinophilia and systemic symptoms (DRESS) in patients reported otherwise: a systematic review[J]. J Psychopharmacol, 2021, 35(9): 1062‐1073. DOI: 10.1177/02698811211021587.  
+[11] Food and Drug Administration. Drug safety and availability[EB/OL]. (2014‐12‐11) [2024‐2‐28]. http:// FDA Drug Safety Communication: FDA reporting mental health drug ziprasidone (Geodon) associated with rare but potentially fatal skin reactions |FDA.   
+[12] Food and Drug Administration. Drug safety and availability[EB/OL]. (2016‐5‐10) [2024‐2‐28]. http://FDA Drug Safety Communication: FDA warns about rare but serious skin reactions with mental health drug olanzapine (Zyprexa, Zyprexa Zydis, Zyprexa Relprevv, and Symbyax) |FDA.   
+[13] Sharma AN, Shwe S, Ravi V, et al. Characterizing DRESS syndrome recurrence: a systematic review[J]. Arch Dermatol Res, 2022, 314(8): 721‐728. DOI: 10.1007/ s00403‐021‐02274‐3.   
+[14] Husain Z, Reddy BY, Schwartz RA. DRESS syndrome: part II. management and therapeutics[J]. J Am Acad Dermatol,  2013, 68(5): 709. e1‐9; quiz 718‐720. DOI: 10.1016/j. jaad.2013.01.032.  
