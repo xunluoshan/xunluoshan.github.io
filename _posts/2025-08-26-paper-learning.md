@@ -44,9 +44,9 @@ tags:
 
 临床工作者在诊断和治疗 PNES 时应详细询问患者病史、仔细观察发作时临床表现、及时完善视频脑电图等，减少误诊、漏诊；在明确诊断后，应进行疾病宣教, 说服患者接受诊断，同时进一步深入挖掘其发作是否存在具体心因性事件，充分结合心理治疗、认知行为治疗及药物治疗，最终做到尽可能地减少或完全消除心因性非癫痫性发作，提高患者的生活质量。
 
-[1] 陈 姝 婷 , 林 铮 . 心 因 性 非 癫 痫 性 发 作 误 诊 为 癫 痫 1 例 [J]. 中 华 精 神 科 杂 志 , 2025, 58(6):480-483. DOI: 10.3760/cma.j.cn113661-20240731-00256.
-[2] Asadi‐Pooya AA, Sperling MR. Epidemiology of psychogenic nonepileptic seizures[J]. Epilepsy Behav, 2015, 46:60‐65. DOI: 10.1016/j.yebeh.2015.03.015. 
-[3] Labudda K, Frauenheim M, Illies D, et al. Psychiatric disorders and trauma history in patients with pure PNES and patients with PNES and coexisting epilepsy[J]. Epilepsy Behav, 2018, 88: 41‐48. DOI: 10.1016/j. yebeh.2018.08.027.
+[1] 陈 姝 婷 , 林 铮 . 心 因 性 非 癫 痫 性 发 作 误 诊 为 癫 痫 1 例 [J]. 中 华 精 神 科 杂 志 , 2025, 58(6):480-483. DOI: 10.3760/cma.j.cn113661-20240731-00256.  
+[2] Asadi‐Pooya AA, Sperling MR. Epidemiology of psychogenic nonepileptic seizures[J]. Epilepsy Behav, 2015, 46:60‐65. DOI: 10.1016/j.yebeh.2015.03.015.   
+[3] Labudda K, Frauenheim M, Illies D, et al. Psychiatric disorders and trauma history in patients with pure PNES and patients with PNES and coexisting epilepsy[J]. Epilepsy Behav, 2018, 88: 41‐48. DOI: 10.1016/j. yebeh.2018.08.027.  
 
 
 ### 紧张症型的谵妄
@@ -68,10 +68,11 @@ tags:
 - 神经科会诊，患者查体配合欠佳，不遵嘱活动，双侧瞳孔等大等圆、 对光反射灵敏，四肢疼痛刺激有躲避，腱反射正常引出，肌力检查不配合，未引出双下肢病理征，**可疑颈抵抗，四肢肌张力高**；考虑精神行为障碍可能，建议完善脑脊液化验以除外感染性脑炎、自身免疫性脑炎。
 - 精神科随诊，精神检查：神清，**言语量极少、多问少答，违拗，回答地点定向为“不知道”**，回答自我定向认可自己姓名及年龄；持续左侧卧位动作、向左侧凝视，偶尔可转动眼球看向医生，**不配合变化体位，颞下颌关节持续紧张**，可闻及不间断咬牙“咯咯”声；在陪护喂食(米粥)时患者有主动进食的意愿，张口时未继续咬牙，吞咽次数少，**闭合口腔后再次持续咬牙**；根据紧张症表现、自主神经功能紊乱、化验检查结果，诊断<mark>恶性紧张症、谵妄</mark>。
 
-**治疗**
->   使用Bush‐Francis紧张症评定量表(Bush‐Francis  Catatonia Rating Scale,BFCRS)评估为17分；  
->   考虑紧张症与全身因素相关 ,建议继续改善一般情况 ,加用劳 拉西泮 2 mg/d(早、午各 0.5mg、晚睡前1mg)对症治疗。  
->   患者服用首剂劳拉西泮 0.5mg 后约 30min **心率下降**至 70~80 次/min、**血压下降**至 110~124/68~79 mmHg，四**肢肌张力较前下降、 停止咬牙动作，自行入睡**，2h后因进食唤醒患者，无持续动作、肌张力增高表现，可对答、对答切题，定向不佳，进食后再次入睡。  
+#### 治疗
+
+使用Bush‐Francis紧张症评定量表(Bush‐Francis  Catatonia Rating Scale,BFCRS)评估为17分；  
+考虑紧张症与全身因素相关 ,建议继续改善一般情况 ,加用劳 拉西泮 2 mg/d(早、午各 0.5mg、晚睡前1mg)对症治疗。  
+患者服用首剂劳拉西泮 0.5mg 后约 30min **心率下降**至 70~80 次/min、**血压下降**至 110~124/68~79 mmHg，**四肢肌张力较前下降、 停止咬牙动作，自行入睡**，2h后因进食唤醒患者，无持续动作、肌张力增高表现，可对答、对答切题，定向不佳，进食后再次入睡。  
 
 
 
