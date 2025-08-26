@@ -1,4 +1,14 @@
-
+---
+layout:     post
+title:      "2025.8.26读文献总结知识点1"
+subtitle:   "Summary of paper learning today"
+author:     "Luoshan"
+catalog: true
+header-style: text
+tags:
+  - 癫痫
+  - 精神病学
+---
 
 
 
