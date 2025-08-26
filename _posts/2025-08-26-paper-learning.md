@@ -44,9 +44,9 @@ tags:
 
 临床工作者在诊断和治疗 PNES 时应详细询问患者病史、仔细观察发作时临床表现、及时完善视频脑电图等，减少误诊、漏诊；在明确诊断后，应进行疾病宣教, 说服患者接受诊断，同时进一步深入挖掘其发作是否存在具体心因性事件，充分结合心理治疗、认知行为治疗及药物治疗，最终做到尽可能地减少或完全消除心因性非癫痫性发作，提高患者的生活质量。
 
-[1] 陈 姝 婷 , 林 铮 . 心 因 性 非 癫 痫 性 发 作 误 诊 为 癫 痫 1 例 [J]. 中 华 精 神 科 杂 志 , 2025, 58(6):480-483. DOI: 10.3760/cma.j.cn113661-20240731-00256.
-[2] Asadi‐Pooya AA, Sperling MR. Epidemiology of psychogenic nonepileptic seizures[J]. Epilepsy Behav, 2015, 46:60‐65. DOI: 10.1016/j.yebeh.2015.03.015. 
-[3] Labudda K, Frauenheim M, Illies D, et al. Psychiatric disorders and trauma history in patients with pure PNES and patients with PNES and coexisting epilepsy[J]. Epilepsy Behav, 2018, 88: 41‐48. DOI: 10.1016/j. yebeh.2018.08.027.
+[1] 陈 姝 婷 , 林 铮 . 心 因 性 非 癫 痫 性 发 作 误 诊 为 癫 痫 1 例 [J]. 中 华 精 神 科 杂 志 , 2025, 58(6):480-483. DOI: 10.3760/cma.j.cn113661-20240731-00256.  
+[2] Asadi‐Pooya AA, Sperling MR. Epidemiology of psychogenic nonepileptic seizures[J]. Epilepsy Behav, 2015, 46:60‐65. DOI: 10.1016/j.yebeh.2015.03.015.   
+[3] Labudda K, Frauenheim M, Illies D, et al. Psychiatric disorders and trauma history in patients with pure PNES and patients with PNES and coexisting epilepsy[J]. Epilepsy Behav, 2018, 88: 41‐48. DOI: 10.1016/j. yebeh.2018.08.027.  
 
 
 ### 紧张症型的谵妄
