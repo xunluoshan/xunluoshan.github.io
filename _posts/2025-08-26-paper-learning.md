@@ -155,13 +155,13 @@ Lesko等<sup>[19]</sup>报道1例双相障碍缓解期老年患者泌尿系统�
 
 #### 讨论
 
-DRESS是具有特异征候的重型药疹,有别于一般药疹——使用致敏药物之后 立刻发病,一旦停药迅速缓解。
+DRESS是具有特异征候的重型药疹,有别于一般药疹——使用致敏药物之后立刻发病,一旦停药迅速缓解。
 {:.info}
 
 DIHS又称DRESS，是一种由**有限特定药引起、累及多器官系统、威胁生命的重症药疹**，死亡率达10%。表现为<u>发热、皮肤药疹、淋巴结病变、脏器受累和嗜酸粒细胞升高</u>。DRESS的发病机制尚不明确，可能与遗传易感性、免疫介导、病毒再激活，如人疱疹病毒6型(human herpes virus 6，HHV‐6)、巨细胞病毒、EB病毒等感染有关。所以发病率取决于药物的类型和患者的免疫状态。DRESS是一种<mark>迟发型超敏反应</mark>，常发生在药物暴露后几天到几周，平均3周。典型病例表现为***双峰性：第1次高峰症状与药物过敏相关，而第2次高峰症状则与HHV‐6等再激活密切相关。***
 
 ![RegiSCAR_DRESS_scale.png](https://cdn.jsdelivr.net/gh/xunluoshan/xunluoshan.github.io@master/img/attachment/dress_scaling.png)
-
+[1]  
 参考欧洲药物不良反应登记处(RegiSCAR)诊断DRESS综合征评分系统<sup>[2]</sup>，本例患者评分5分，包括嗜酸性细胞≥10%(1分)、淋巴结增大(1分)、皮疹>50%体表面积(1分)、脏器累计≥2个(2分)，最终归为“很可能”的DRESS病例。虽然尚不清楚本例患者DRESS综合征具体是由哪个抗精神病药诱导，但重要的是患者<u>在暴露多种抗精神药物后出现DRESS，皮疹消退后出现再燃，与病毒再度激活，激素停药过早有关，这也与DRESS的双峰性临床特征相符</u>。对DRESS认识的提高，避免误认为本病例第2次过敏复燃是后续加用的碳酸锂所致，为后续患者继续碳酸锂治疗提供了支持依据。
 
 本例患者在首次住院前期使用了包括齐拉西酮、碳酸锂、喹硫平、奥氮平在内的多种精神科药物。<u>多种药物的联合应用对本例DRESS的发生发展可能也起到了催化作用</u>。Cacoub等<sup>[3]</sup>研究发现，<mark>DRESS综合征的潜伏期较长，平均3.9周</mark>。本例患者在使用精神科药物第9天出现症状，可疑与多种药物的联合使用加速了症状的进展有关。另有研究发现，相较于单一使用抗癫痫药物，2种抗癫痫药物的联合使用增加了Stevens‐Johnson综合征和中毒性表皮坏死松解症发生的风险<sup>[4]</sup>。因此，**避免无必要的药物联合治疗对规避重症药疹的发生是十分必要的。**
@@ -180,6 +180,7 @@ DIHS又称DRESS，是一种由**有限特定药引起、累及多器官系统、
 
 <details>
 <summary>🐾参考文献🐾(click here)</summary>
+[1]陈伟明, 张铮铮, 陆国平. 药物超敏反应综合征 [J] . 中国小儿急救医学, 2019, 26(5) : 321-325. DOI: 10.3760/cma.j.issn.1673-4912.2019.05.001.  
 [2] Kardaun SH, Sidoroff A, Valeyrie‐Allanore L, et al. Variability in the clinical pattern of cutaneous side‐effects of drugs with systemic symptoms: does a DRESS syndrome really exist? [J]. Br J Dermatol, 2007, 156(3): 609‐611. DOI: 10.1111/j.1365‐2133.2006.07704.x.   
 [3] Cacoub P, Musette P, Descamps V, et al. The DRESS syndrome: a literature review[J]. Am J Med, 2011, 124(7): 588‐597. DOI: 10.1016/j.amjmed.2011.01.017.   
 [4] Noguchi Y, Takaoka M, Hayashi T, et al. Antiepileptic combination therapy with Stevens‐Johnson syndrome and toxic epidermal necrolysis: Analysis of a Japanese pharmacovigilance database[J]. Epilepsia, 2020, 61(9): 1979‐1989. DOI: 10.1111/epi.16626.   
