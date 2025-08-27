@@ -7,6 +7,10 @@ catalog: true
 header-style: text
 tags:
   - 癫痫
+  - 癔症
+  - 紧张症
+  - 谵妄
+  - 药物
   - 精神病学
 ---
 
