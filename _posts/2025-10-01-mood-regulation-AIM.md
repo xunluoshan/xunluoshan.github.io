@@ -6,8 +6,8 @@ author:     "Luoshan"
 catalog: true
 header-style: text
 tags:
-  - 双相
-  - 抗抑郁药
+  - bipolar
+  - antidepressant
   - 精神病学
 ---
 
