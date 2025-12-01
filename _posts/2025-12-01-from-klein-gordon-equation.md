@@ -13,10 +13,12 @@ tags:
 
 
 Klein-Gordon equation
-$$(-\frac{1}{c^2}\frac{\partial^2}{\partial t^2}+\nabla^2-\frac{M^2c^2}{\hbar^2})\Psi(\vec{r},t)=0$$
+
+(-\frac{1}{c^2}\frac{\partial^2}{\partial t^2}+\nabla^2-\frac{M^2c^2}{\hbar^2})\Psi(\vec{r},t)=0
 
 Natural unit, 
-$$(-\frac{\partial^2}{\partial t^2}+\nabla^2-M^2)\Psi(\vec r,t)=0$$
+
+\left( -\frac{\partial^2}{\partial t^2}+\nabla^2-M^2 \right)\Psi(\vec r,t)=0
 
 因为$\nabla^2-M^2$是厄米的，能展开为若干线性独立的本征态函数的叠加
 
