@@ -61,12 +61,16 @@ $$\frac{\partial^2}{\partial \phi^2}\Phi_m(\phi)=\bar{\lambda_m} \Phi_m(\phi)$$
 解得，  
 $$\Phi_m(\phi)=e^{im\phi},      \bar{\lambda_m}=-m^2$$  
 将其代入$(\nabla^2-M^2)\Psi_n(\vec r)=-\lambda_n \Psi_n(\vec r)$，  
+
 $$-(\frac{1}{r^2}\frac{\partial}{\partial r}r^2 \frac{\partial}{\partial r}+\frac{1}{r^2 sin\theta}\frac{\partial}{\partial \theta}sin\theta \frac{\partial}{\partial \theta}+\frac{1}{r^2sin^2\theta}\frac{\partial^2}{\partial \phi^2}+M^2-\lambda_n)\sum_m \psi_m(r,\theta) \Phi_m(\phi)=0$$  
+
 $$-\sum_m(\frac{1}{r^2}\frac{\partial}{\partial r}r^2 \frac{\partial}{\partial r}+\frac{1}{r^2 sin\theta}\frac{\partial}{\partial \theta}sin\theta \frac{\partial}{\partial \theta}-\frac{m^2}{r^2sin^2\theta}+M^2-\lambda_n)\psi_m(r,\theta) \Phi_m(\phi)=0$$  
+
 又$\Phi_m(\phi)=e^{im\phi}$，当m不同时，$\Phi_m(\phi)$彼此是正交的。
 
 因此，对任意的m，都有  
-$$(\frac{1}{r^2}\frac{\partial}{\partial r}r^2 \frac{\partial}{\partial r}+\frac{1}{r^2 sin\theta}\frac{\partial}{\partial \theta}sin\theta \frac{\partial}{\partial \theta}-\frac{m^2}{r^2sin^2\theta}+M^2-\lambda_n)\psi_m(r,\theta)=0$$
+
+$$(\frac{1}{r^2}\frac{\partial}{\partial r}r^2 \frac{\partial}{\partial r}+\frac{1}{r^2 sin\theta}\frac{\partial}{\partial \theta}sin\theta \frac{\partial}{\partial \theta}-\frac{m^2}{r^2sin^2\theta}+M^2-\lambda_n)\psi_m(r,\theta)=0$$  
 
 令$\psi_m(r,\theta)=\sum_{lm}R_{lm}(r)\Theta_{lm}(\theta)$
 
