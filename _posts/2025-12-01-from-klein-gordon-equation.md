@@ -11,25 +11,26 @@ tags:
 ---
 
 <head>
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-            tex2jax: {
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [['$','$']]
-            }
-        });
+    <script>
+    MathJax = {
+      tex: {
+        inlineMath: [['$', '$']],
+        displayMath: [['$$', '$$']],
+        processEscapes: true
+      }
+    };
     </script>
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
 
 
 Klein-Gordon equation
 
-(-\frac{1}{c^2}\frac{\partial^2}{\partial t^2}+\nabla^2-\frac{M^2c^2}{\hbar^2})\Psi(\vec{r},t)=0
+$$(-\frac{1}{c^2}\frac{\partial^2}{\partial t^2}+\nabla^2-\frac{M^2c^2}{\hbar^2})\Psi(\vec{r},t)=0$$
 
 Natural unit, 
 
-\left( -\frac{\partial^2}{\partial t^2}+\nabla^2-M^2 \right)\Psi(\vec r,t)=0
+$$\left( -\frac{\partial^2}{\partial t^2}+\nabla^2-M^2 \right)\Psi(\vec r,t)=0$$
 
 因为$\nabla^2-M^2$是厄米的，能展开为若干线性独立的本征态函数的叠加
 
