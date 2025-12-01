@@ -25,7 +25,7 @@ tags:
 
 Klein-Gordon equation
 
-$$ (-\frac{1}{c^2}\frac{\partial^2}{\partial t^2}+\nabla^2-\frac{M^2c^2}{\hbar^2})\Psi(\vec{r},t)=0 $$
+$$ \left(-\frac{1}{c^2}\frac{\partial^2}{\partial t^2}+\nabla^2-\frac{M^2c^2}{\hbar^2}\right)\Psi(\vec{r},t)=0 $$
 
 Natural unit, 
 
