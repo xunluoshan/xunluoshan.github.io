@@ -6,9 +6,8 @@ author:     "Luoshan"
 catalog: true
 header-style: text
 tags:
-  - 人格心理学
-  - 理论
-  - psychology
+  - 人格
+  - 读书笔记
 ---
 
 >  本文主要目的是提炼、梳理知识点，回顾历史，以期对今天有启发。
