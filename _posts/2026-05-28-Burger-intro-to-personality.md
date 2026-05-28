@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "读Burger人格心理学的记录——关于Freud"
-subtitle:   "Notes of <Introduction to Personality> by J.Burger"
+subtitle:   "Notes of 'Introduction to Personality' by J.Burger"
 author:     "Luoshan"
 catalog: true
 header-style: text
